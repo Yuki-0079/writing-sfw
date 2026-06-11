@@ -35,7 +35,7 @@ genre_*    文学类型（12子类）   → 科幻/奇幻/赛博朋克/反乌托
 
 | Skill | 来源书 | 条目 | 核心贡献 |
 |-------|--------|:----:|----------|
-| `mckee-story-analyzer` | 麦基《故事》《对白》《人物》 | 1828 | 故事结构/人物设计/场景设计 |
+| `mckee-story-analyzer` | 麦基《故事》《对白》《人物》 | 1828 | 故事结构/人物设计/场景设计 [来源](https://github.com/huaigu17/Mckee-Story-Analyzer) |
 | `story-writing-master-class` | 特鲁比《故事写作大师班》 | 75 | 22步结构/角色网络/道德论点 |
 | `burroway-narrative-craft` | 伯罗薇《小说写作：叙事技巧指南》 | 71 | 展现与讲述/对话/视角 |
 | `becoming-a-writer` | 布兰德《成为作家》 | 30 | 双重人格/定时写作/创作心理 |
@@ -87,7 +87,10 @@ powershell -ExecutionPolicy Bypass -File install.ps1
 
 ## 致谢
 
+- **麦基知识库原始项目** — [Mckee-Story-Analyzer](https://github.com/huaigu17/Mckee-Story-Analyzer) by [@huaigu17](https://github.com/huaigu17)
 - **opencode** — Agent/Skill 框架
 - **John Truby, Janet Burroway, Dorothea Brande, John Gallishaw, Robert McKee, 吴岩, 谢开来** — 被拆解书籍的作者
 - **Karl Marx** — 《资本论》知识库的理论基础
+
+
 
