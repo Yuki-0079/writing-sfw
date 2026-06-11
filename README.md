@@ -87,10 +87,25 @@ powershell -ExecutionPolicy Bypass -File install.ps1
 
 ## 致谢
 
-- **麦基知识库原始项目** — [Mckee-Story-Analyzer](https://github.com/huaigu17/Mckee-Story-Analyzer) by [@huaigu17](https://github.com/huaigu17)
-- **opencode** — Agent/Skill 框架
-- **John Truby, Janet Burroway, Dorothea Brande, John Gallishaw, Robert McKee, 吴岩, 谢开来** — 被拆解书籍的作者
-- **Karl Marx** — 《资本论》知识库的理论基础
+### 知识库来源
+| 知识库 | 来源书 | 作者 | 原始文件 |
+|--------|--------|------|---------|
+| mckee-story-analyzer | 《故事》《对白》《人物》 | 罗伯特·麦基 (Robert McKee) | [Mckee-Story-Analyzer](https://github.com/huaigu17/Mckee-Story-Analyzer) by @huaigu17 |
+| story-writing-master-class | 《故事写作大师班》 | 约翰·特鲁比 (John Truby) | EPUB |
+| burroway-narrative-craft | 《小说写作：叙事技巧指南（第十版）》 | 珍妮特·伯罗薇 (Janet Burroway) | EPUB |
+| becoming-a-writer | 《成为作家》 | 多萝西娅·布兰德 (Dorothea Brande) | EPUB |
+| kehuan-wenxue-lungang | 《科幻文学论纲》 | 吴岩 | EPUB |
+| harvard-short-story | 《哈佛短篇小说写作指南》 | 约翰·盖利肖 (John Gallishaw) | EPUB |
+| beneath-the-iceberg | 《在幻想的冰山下——欧美奇幻文学的故事世界和文本系统》 | 谢开来 | EPUB |
+| das-kapital-knowledge-base | 《资本论》第一卷 | 卡尔·马克思 | PDF（人民出版社1972年版） |
+
+### 框架与工具
+
+- **[opencode](https://opencode.ai)** — Agent/Skill 框架
+- **[jwynia/agent-skills](https://github.com/jwynia/agent-skills)** — economic-systems、governance-systems、systemic-worldbuilding 世界观构建技能
+
+
+
 
 
 
