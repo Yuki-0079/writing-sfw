@@ -1,8 +1,8 @@
-<#
+﻿<#
 .SYNOPSIS
     创意写作工作坊 — 一键安装脚本
 .DESCRIPTION
-    将 skills/, agents/, workshop/ 安装到 OpenClaw 配置目录和用户工作区。
+    将 skills/, agents/, workshop/ 安装到 opencode 配置目录和用户工作区。
 .PARAMETER WorkshopPath
     Workshop 工程文件的安装路径（默认当前目录下的 writing_sfw）
 .PARAMETER Force
@@ -119,7 +119,8 @@ $agentTarget\writing-analyzer.md
 "@ | Out-File -FilePath $manifestPath -Encoding utf8
 
 Write-Host "提示：" -ForegroundColor Cyan
-Write-Host "  1. 在 OpenClaw 的新对话中，先加载workshop中的Agent文件："
+Write-Host "  1. 在 opencode 的新对话中，先加载workshop中的Agent文件："
 Write-Host "     '请以 Writing Agent 的身份工作，加载 writing.md'"
 Write-Host "  2. 取消安装请运行：Remove-Item -Path （Get-Content uninstall_manifest.txt） -Recurse -Force"
 Write-Host "  3. 卸载清单已保存至：$manifestPath"
+

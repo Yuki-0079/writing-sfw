@@ -1,6 +1,6 @@
-# 创意写作工作坊 · Writing Workshop
+﻿# 创意写作工作坊 · Writing Workshop
 
-基于多本创意写作经典的结构化知识库系统，无缝集成 [OpenClaw](https://opencode.ai) 的 Agent + Skill 架构。
+基于多本创意写作经典的结构化知识库系统，无缝集成 [opencode](https://opencode.ai) 的 Agent + Skill 架构。
 
 ## 系统架构
 
@@ -55,7 +55,7 @@ genre_*    文学类型（12子类）   → 科幻/奇幻/赛博朋克/反乌托
 ## 快速安装
 
 ```powershell
-# 前置条件：已安装 OpenClaw + PowerShell 5.1+
+# 前置条件：已安装 opencode + PowerShell 5.1+
 git clone https://github.com/your-org/writing-sfw.git
 cd writing-sfw
 powershell -ExecutionPolicy Bypass -File install.ps1
@@ -87,6 +87,7 @@ powershell -ExecutionPolicy Bypass -File install.ps1
 
 ## 致谢
 
-- **OpenClaw** — Agent/Skill 框架
+- **opencode** — Agent/Skill 框架
 - **John Truby, Janet Burroway, Dorothea Brande, John Gallishaw, Robert McKee, 吴岩, 谢开来** — 被拆解书籍的作者
 - **Karl Marx** — 《资本论》知识库的理论基础
+
