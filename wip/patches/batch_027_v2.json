@@ -1,0 +1,31 @@
+﻿[
+    {
+        "_index":  981,
+        "applicable_media":  [
+                                 "hybrid"
+                             ]
+    },
+    {
+        "_index":  982,
+        "certainty":  "medium",
+        "framework_bias_note":  "本章为对白写作通用技巧（《对白》第三章），冲突中语言的四种心理学观察为通用原理而非麦基独创。"
+    },
+    {
+        "_index":  985,
+        "applicable_media":  [
+                                 "hybrid"
+                             ]
+    },
+    {
+        "_index":  987,
+        "applicable_media":  [
+                                 "hybrid"
+                             ]
+    },
+    {
+        "_index":  988,
+        "applicable_media":  [
+                                 "hybrid"
+                             ]
+    }
+]

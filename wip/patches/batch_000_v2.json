@@ -1,0 +1,14 @@
+[
+  {"_index": 2, "certainty": "medium", "applicable_media": ["film"], "framework_bias_note": "该主张基于麦基对\"原型vs陈规\"的区分——一种个人化的创作哲学，在非好莱坞叙事传统中可能有不同的文化边界。"},
+  {"_index": 3, "certainty": "medium", "applicable_media": ["hybrid"], "framework_bias_note": "原型与陈规的区分是麦基的核心创作哲学之一，该主张适用于所有叙事媒介。"},
+  {"_index": 4, "certainty": "medium", "applicable_media": ["hybrid"], "framework_bias_note": "该主张基于麦基对\"原型故事\"的定义，强调普遍人性冲突与文化特异性的结合。"},
+  {"_index": 5, "certainty": "medium", "applicable_media": ["film"], "framework_bias_note": "本章序言的哲学立场：虚构体验照亮现实，该主张是麦基对故事功能的核心理念。"},
+  {"_index": 6, "certainty": "high", "applicable_media": ["hybrid"], "framework_bias_note": ""},
+  {"_index": 7, "certainty": "medium", "applicable_media": ["film", "novel"], "framework_bias_note": "该主张基于麦基对银幕剧作独特性的分析——电影无法像小说那样用作者声音掩饰缺陷，适用于以视觉叙事为主的媒介。"},
+  {"_index": 8, "certainty": "medium", "applicable_media": ["film"], "framework_bias_note": "本章序言关于观众智性的论述是麦基的个人观察，在非电影院场景（如流媒体观看）中观众的专注度可能不同。"},
+  {"_index": 9, "certainty": "medium", "applicable_media": ["hybrid"], "framework_bias_note": "内容与形式融合的独创性理念是麦基的核心创作哲学，属于跨媒介通用的创作原则。"},
+  {"_index": 10, "certainty": "medium", "applicable_media": ["hybrid"], "framework_bias_note": "该主张基于麦基对内容与形式辩证关系的理解，适用于所有叙事形式的创作。"},
+  {"_index": 11, "certainty": "medium", "applicable_media": ["film"], "framework_bias_note": "该主张基于麦基对电影大师独特风格的分析，强调个人化故事风格的重要性。"},
+  {"_index": 12, "certainty": "debatable", "applicable_media": ["hybrid"], "framework_bias_note": "该主张基于麦基\"故事结构即世界观\"的理论立场——叙事形式本身承载意义。这是麦基特有的理论视角，其他理论家（如后结构主义者）可能有不同看法。"},
+  {"_index": 13, "certainty": "medium", "applicable_media": ["film"], "framework_bias_note": "本章序言的结语——麦基对\"伟大电影\"的个人渴望与信念，属于创作动机层面的论述。"}
+]

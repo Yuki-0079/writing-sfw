@@ -1,0 +1,18 @@
+{
+  "name": "beneath-the-iceberg",
+  "title": "在幻想的冰山下：欧美奇幻文学的故事世界和文本系统",
+  "author": "谢开来",
+  "version": "1.0.0",
+  "description": "奇幻文学的社会化生产理论——多体裁文本系统、架空世界宏观结构、权力圈层模型",
+  "type": "knowledge-base",
+  "entry_count": 21,
+  "framework_coords": {
+    "medium_bias": "hybrid",
+    "granularity": "whole",
+    "analyze_target": "craft",
+    "rigidity": "descriptive",
+    "generality": "broad"
+  },
+  "dependencies": [],
+  "install_date": "2026-05-27"
+}

@@ -1,0 +1,37 @@
+{
+  "chapter_file": "0015.txt",
+  "heading": "◎ 进展纠葛",
+  "analysis": {
+    "nature": "麦基特有理论建构为主，穿插普遍创作原理和历史引述。本章核心是麦基的鸿沟/冲突递增模型（不归点），这是其独有的故事驱动理论；冲突法则部分为普遍原理；纠葛型VS复杂型分类是麦基的系统化建构；幕设计及变体部分混合了亚里士多德以来的共识性结构原则和麦基的个人编排。",
+    "certainty": "mixed",
+    "media": "hybrid",
+    "bias_note": "本章核心主张基于麦基独有的冲突递增模型和鸿沟原理。前半部分的'不归点'理论是该模型的精髓（debatable），冲突法则为普遍原理（medium），幕设计及变体部分混合了共识性结构和麦基的个人编排。总体而言，本章适用于film/novel/tv等叙事媒介，但核心理论在非冲突驱动型叙事中需调整。"
+  },
+  "part_files_covered": ["text/part0028.html"],
+  "section_analysis": {
+    "不归点_382to386": {
+      "certainty_mode": "debatable",
+      "note": "麦基独有的冲突递增/鸿沟模型，非普遍创作共识"
+    },
+    "冲突法则_389to400": {
+      "certainty_mode": "medium主导",
+      "note": "普遍认可的创作原理和生命哲学论述，非麦基特有"
+    },
+    "纠葛型VS复杂型_401to413": {
+      "certainty_mode": "medium主导+debatable(406分类)",
+      "note": "冲突三层分类是麦基的系统化建构；具体分析（克莱默夫妇）为一般创作原理"
+    },
+    "幕设计_414to430": {
+      "certainty_mode": "mixed(medium+debatable)",
+      "note": "三幕结构是共识性原理（medium），节拍体系和具体比例是麦基个人编排（debatable）"
+    },
+    "设计变体与假结尾_431to444": {
+      "certainty_mode": "debatable主导",
+      "note": "麦基对幕结构变体的系统化分类和假结尾理论，多为个人建构"
+    },
+    "次情节与多情节_445to465": {
+      "certainty_mode": "medium主导+debatable(分类条目)",
+      "note": "次情节四种关系为普遍创作原理（medium），具体分类和电影改编分析为麦基建构（debatable）"
+    }
+  }
+}

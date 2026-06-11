@@ -1,0 +1,16 @@
+{
+  "chapter_file": "0004.txt",
+  "heading": "序言",
+  "analysis": {
+    "nature": "麦基的创作哲学宣言（原理论vs规则、原型vs陈规、独创性、尊重观众）",
+    "certainty": "medium（大多数条目为麦基的核心理念——业界广泛认同但带有个人色彩）",
+    "certainty_exceptions": [
+      "idx 6: high（讲故事技艺可学——跨框架共识）",
+      "idx 12: debatable（故事结构即世界观——麦基特有理论视角）"
+    ],
+    "media": "film为主，部分hybrid",
+    "media_exceptions": [],
+    "bias_note_template": "本章为《故事》序言，基于麦基对电影叙事艺术的核心理念。"
+  },
+  "part_files_covered": ["text/part0007.html"]
+}

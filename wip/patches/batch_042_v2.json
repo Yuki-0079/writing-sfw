@@ -1,0 +1,35 @@
+[
+    {
+        "_index": 1304,
+        "certainty": "debatable",
+        "applicable_media": ["hybrid"],
+        "framework_bias_note": "本章为麦基《人物》书第一章的核心理论框架。『人物是已完成作品vs人是发展中作品』的区分属于麦基人物理论的基石，是该书的中心论点，并非所有叙事理论都采用此严格二分。"
+    },
+    {
+        "_index": 1306,
+        "applicable_media": ["hybrid"]
+    },
+    {
+        "_index": 1307,
+        "certainty": "debatable",
+        "framework_bias_note": "本章为麦基《人物》书第一章的核心理论框架。『人存在于每天二十四小时中，人物存在于幕启幕落之间』的时空界定属于麦基对人物存在方式的特有概念化。"
+    },
+    {
+        "_index": 1309,
+        "framework_bias_note": "本章为麦基《人物》书第一章的理论主张。『人物能给我们带来丰富见识，因为可以静待研究』属于麦基人物理论框架中关于人物可分析性的特定主张。"
+    },
+    {
+        "_index": 1311,
+        "applicable_media": ["hybrid"]
+    },
+    {
+        "_index": 1312,
+        "applicable_media": ["hybrid"]
+    },
+    {
+        "_index": 1313,
+        "certainty": "debatable",
+        "applicable_media": ["hybrid"],
+        "framework_bias_note": "本章为麦基《人物》书第一章的核心理论框架。『人都戴着面具，人物引人探秘』的区分属于麦基人物理论的核心主张，强调人物的可穿透性。"
+    }
+]

@@ -1,0 +1,13 @@
+[
+  {"_index": 15, "certainty": "medium", "applicable_media": null, "framework_bias_note": null},
+  {"_index": 109, "certainty": "debatable", "applicable_media": null, "framework_bias_note": "该主张基于麦基的故事三角理论体系，将'开放/闭合''被动/主动''连贯/非连贯'作为结构坐标是该理论框架的分类方式，其他理论家可能使用不同的分类维度。"},
+  {"_index": 138, "certainty": "medium", "applicable_media": null, "framework_bias_note": null},
+  {"_index": 144, "certainty": "medium", "applicable_media": null, "framework_bias_note": null},
+  {"_index": 214, "certainty": "debatable", "applicable_media": null, "framework_bias_note": "该主张基于麦基的'情节与人物从两个视点看是同一现象'的核心命题，该命题是麦基对情节/人物之争的独特回应，在其他理论体系中情节和人物可能被视为独立的分析维度。"},
+  {"_index": 320, "certainty": "medium", "applicable_media": null, "framework_bias_note": null},
+  {"_index": 421, "certainty": "medium", "applicable_media": null, "framework_bias_note": null},
+  {"_index": 522, "certainty": "medium", "applicable_media": null, "framework_bias_note": null},
+  {"_index": 683, "certainty": "medium", "applicable_media": null, "framework_bias_note": null},
+  {"_index": 772, "certainty": "medium", "applicable_media": null, "framework_bias_note": null},
+  {"_index": 883, "certainty": "medium", "applicable_media": null, "framework_bias_note": null}
+]

@@ -1,0 +1,20 @@
+{
+  "name": "burroway-narrative-craft",
+  "display_name": "伯罗薇叙事技巧知识库",
+  "version": "1.0.0",
+  "book_title": "小说写作：叙事技巧指南（第十版）",
+  "author": "珍妮特·伯罗薇、伊丽莎白·斯塔基-弗伦奇",
+  "entry_count": 71,
+  "chapters": 9,
+  "description": "基于珍妮特·伯罗薇《小说写作：叙事技巧指南（第十版）》的叙事技巧知识库。覆盖展现与讲述、对话技艺、人物塑造六法、叙述视角四维度、情节结构、比喻修辞、修改与主题七大维度。与mckee-story-analyzer（宏观结构）互补，聚焦小说执行层面的微观技法。",
+  "framework_coords": {
+    "medium_bias": "novel",
+    "granularity": "scene",
+    "analyze_target": "craft",
+    "rigidity": "descriptive",
+    "generality": "medium"
+  },
+  "dependencies": [],
+  "related_skills": ["mckee-story-analyzer", "story-writing-master-class"],
+  "install_date": "2026-05-27"
+}

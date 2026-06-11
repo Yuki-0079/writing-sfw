@@ -1,0 +1,18 @@
+[
+  {
+    "text_match": "在故事的艺术中，自反性冲突指的是当角色努力解决一个长久的难题，却反弹回到自己身上所导致的内在战争",
+    "certainty": "debatable",
+    "applicable_media": [
+      "hybrid"
+    ],
+    "framework_bias_note": "本章基于麦基的自反性冲突理论，该模型（角色自我对抗导致冲突螺旋升级）属麦基特有的内在冲突分析框架，非所有创作方法论都采用这一术语。"
+  },
+  {
+    "text_match": "自反性冲突可以用现在式直接表达，或用过去式不直接表达。在舞台和银幕上，角色可以用内心独白表达前者",
+    "certainty": "medium",
+    "applicable_media": [
+      "hybrid"
+    ],
+    "framework_bias_note": ""
+  }
+]

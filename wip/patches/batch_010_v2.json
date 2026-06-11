@@ -1,0 +1,134 @@
+﻿[
+    {
+        "_index":  466,
+        "certainty":  "high",
+        "applicable_media":  [
+                                 "hybrid"
+                             ],
+        "framework_bias_note":  ""
+    },
+    {
+        "_index":  468,
+        "applicable_media":  [
+                                 "hybrid"
+                             ],
+        "framework_bias_note":  "本章基于经典好莱坞叙事传统和银幕剧作语境构建场景设计体系。该主张中的\u0027故事脊椎/场景目标\u0027概念在小说等文本媒介需调整为：通过叙述视角和内心独白来表现人物欲望。"
+    },
+    {
+        "_index":  470,
+        "applicable_media":  [
+                                 "film"
+                             ],
+        "framework_bias_note":  "本章基于经典好莱坞叙事传统和银幕剧作语境构建场景设计体系。该主张在小说等文本媒介需调整为：读者通过叙述视角和内心独白获取见解。"
+    },
+    {
+        "_index":  471,
+        "applicable_media":  [
+                                 "film"
+                             ],
+        "framework_bias_note":  "本章基于经典好莱坞叙事传统和银幕剧作语境构建场景设计体系。该主张在小说等文本媒介需调整为：读者通过叙述视角和内心独白获取见解。"
+    },
+    {
+        "_index":  473,
+        "applicable_media":  [
+                                 "hybrid"
+                             ]
+    },
+    {
+        "_index":  477,
+        "applicable_media":  [
+                                 "film"
+                             ]
+    },
+    {
+        "_index":  479,
+        "applicable_media":  [
+                                 "film"
+                             ]
+    },
+    {
+        "_index":  485,
+        "certainty":  "medium",
+        "applicable_media":  [
+                                 "hybrid"
+                             ],
+        "framework_bias_note":  ""
+    },
+    {
+        "_index":  493,
+        "certainty":  "medium",
+        "applicable_media":  [
+                                 "hybrid"
+                             ],
+        "framework_bias_note":  ""
+    },
+    {
+        "_index":  494,
+        "framework_bias_note":  "本章基于经典好莱坞叙事传统和银幕剧作语境构建场景设计体系。该主张中的伏笔/分晓连锁系统在小说媒介需调整为：通过叙述暗示和章节间呼应来实现。"
+    },
+    {
+        "_index":  499,
+        "framework_bias_note":  "本章基于经典好莱坞叙事传统和银幕剧作语境构建场景设计体系。该主张强调想象先于逻辑的创作方法论，跨媒介通用，但具体\u0027回溯修改\u0027策略在小说中尤为适用。"
+    },
+    {
+        "_index":  500,
+        "certainty":  "medium",
+        "applicable_media":  [
+                                 "hybrid"
+                             ],
+        "framework_bias_note":  ""
+    },
+    {
+        "_index":  501,
+        "applicable_media":  [
+                                 "hybrid"
+                             ]
+    },
+    {
+        "_index":  502,
+        "certainty":  "medium",
+        "framework_bias_note":  "回报递减定理是通用心理学原理，麦基将其应用于叙事情感设计。该原理跨媒介通用，但在不同媒介中体验节奏不同。"
+    },
+    {
+        "_index":  507,
+        "applicable_media":  [
+                                 "film"
+                             ],
+        "framework_bias_note":  "本章基于经典好莱坞叙事传统和银幕剧作语境构建场景设计体系。该场景转折分析在小说中需考虑叙述距离和心理描写等要素。"
+    },
+    {
+        "_index":  509,
+        "certainty":  "medium"
+    },
+    {
+        "_index":  516,
+        "applicable_media":  [
+                                 "hybrid"
+                             ],
+        "framework_bias_note":  "三角设计选择理论跨媒介通用，但在小说中可通过多人物视角叙事实现更复杂的抉择呈现。"
+    },
+    {
+        "_index":  469,
+        "framework_bias_note":  "本章基于经典好莱坞叙事传统和银幕剧作语境构建场景设计体系（转折点/伏笔分晓/情感转变/选择性质）。该主张在小说等文本媒介需适配：读者通过叙述视角和内心独白获取见解。"
+    },
+    {
+        "_index":  472,
+        "framework_bias_note":  "本章基于经典好莱坞叙事传统和银幕剧作语境构建场景设计体系（转折点/伏笔分晓/情感转变/选择性质）。该主张在小说等文本媒介需适配：读者通过叙述视角和内心独白获取见解。"
+    },
+    {
+        "_index":  476,
+        "framework_bias_note":  "本章基于经典好莱坞叙事传统和银幕剧作语境构建场景设计体系（转折点/伏笔分晓/情感转变/选择性质）。该主张在小说等文本媒介需适配：读者通过叙述视角和内心独白获取见解。"
+    },
+    {
+        "_index":  478,
+        "framework_bias_note":  "本章基于经典好莱坞叙事传统和银幕剧作语境构建场景设计体系（转折点/伏笔分晓/情感转变/选择性质）。该主张在小说等文本媒介需适配：读者通过叙述视角和内心独白获取见解。"
+    },
+    {
+        "_index":  482,
+        "framework_bias_note":  "本章基于经典好莱坞叙事传统和银幕剧作语境构建场景设计体系（转折点/伏笔分晓/情感转变/选择性质）。该主张在小说等文本媒介需适配：读者通过叙述视角和内心独白获取见解。"
+    },
+    {
+        "_index":  508,
+        "framework_bias_note":  "本章基于经典好莱坞叙事传统和银幕剧作语境构建场景设计体系（转折点/伏笔分晓/情感转变/选择性质）。该主张在小说等文本媒介需适配：读者通过叙述视角和内心独白获取见解。"
+    }
+]

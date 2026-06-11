@@ -1,0 +1,18 @@
+[
+  {
+    "text_match": "不仅同理心会毁了笑料",
+    "certainty": "medium",
+    "applicable_media": [
+      "hybrid"
+    ],
+    "framework_bias_note": "该主张为通用喜剧写作原则，跨媒介通用。"
+  },
+  {
+    "text_match": "注意这两段的结尾。一击挥出要戛然而止",
+    "certainty": "medium",
+    "applicable_media": [
+      "hybrid"
+    ],
+    "framework_bias_note": ""
+  }
+]

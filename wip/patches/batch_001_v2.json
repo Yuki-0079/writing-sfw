@@ -1,0 +1,128 @@
+[
+  {
+    "_index": 14,
+    "certainty": "high",
+    "applicable_media": ["hybrid"],
+    "framework_bias_note": ""
+  },
+  {
+    "_index": 15,
+    "certainty": "medium",
+    "applicable_media": ["hybrid"],
+    "framework_bias_note": "该主张基于麦基对当代故事质量的个人观察与诊断，反映了20世纪90年代好莱坞产业语境下的判断。"
+  },
+  {
+    "_index": 16,
+    "certainty": "medium",
+    "applicable_media": ["film"],
+    "framework_bias_note": "该主张基于麦基在好莱坞审读剧本的个人经验，反映其对行业机会分配的看法。"
+  },
+  {
+    "_index": 17,
+    "certainty": "medium",
+    "applicable_media": ["film"],
+    "framework_bias_note": "该主张基于麦基对20世纪后期欧洲电影衰落的历史分析，代表其个人观点，非学术界共识。"
+  },
+  {
+    "_index": 18,
+    "certainty": "medium",
+    "applicable_media": ["film"],
+    "framework_bias_note": "该主张基于麦基对1990年代亚洲电影崛起的观察，强调故事讲述能力是国际竞争力的核心。"
+  },
+  {
+    "_index": 19,
+    "certainty": "medium",
+    "applicable_media": ["film", "novel"],
+    "framework_bias_note": "该主张基于麦基对20世纪创作教学从\"内在方法\"转向\"外在方法\"的历史分析，有个人倾向性。"
+  },
+  {
+    "_index": 20,
+    "certainty": "medium",
+    "applicable_media": ["film"],
+    "framework_bias_note": "该主张基于麦基作为剧本审读人的专业经验——对剧本缺陷的典型诊断框架。"
+  },
+  {
+    "_index": 21,
+    "certainty": "medium",
+    "applicable_media": ["film"],
+    "framework_bias_note": "该主张基于麦基的个人行业经验——对理想剧本的描述，反映其对\"故事至上\"的坚持。"
+  },
+  {
+    "_index": 22,
+    "certainty": "high",
+    "applicable_media": ["film"],
+    "framework_bias_note": ""
+  },
+  {
+    "_index": 23,
+    "certainty": "medium",
+    "applicable_media": ["film", "novel"],
+    "framework_bias_note": "该主张基于麦基\"故事大于文笔\"的核心信念——在非商业/实验性创作中，文学性可能是更核心的追求。"
+  },
+  {
+    "_index": 24,
+    "certainty": "medium",
+    "applicable_media": ["film"],
+    "framework_bias_note": "麦基用以说明\"刻板故事\"坏剧本的示例，反映其对亚里士多德式结构的坚持。"
+  },
+  {
+    "_index": 25,
+    "certainty": "medium",
+    "applicable_media": ["film"],
+    "framework_bias_note": "麦基用以说明\"商业奇观故事\"坏剧本的示例，反映其对特效替代叙事的批判立场。"
+  },
+  {
+    "_index": 26,
+    "certainty": "medium",
+    "applicable_media": ["hybrid"],
+    "framework_bias_note": "该主张基于麦基\"故事是生活的比喻\"的核心创作哲学，适用于所有叙事媒介。"
+  },
+  {
+    "_index": 27,
+    "certainty": "medium",
+    "applicable_media": ["film"],
+    "framework_bias_note": "该主张基于麦基对商业大片\"以奇观替代故事\"现象的批判，在其写作时代（1990年代）具有特定的针对性。"
+  },
+  {
+    "_index": 28,
+    "certainty": "medium",
+    "applicable_media": ["film"],
+    "framework_bias_note": "该主张基于麦基对电影技术史（无声片→有声片→彩色片→CGI）的循环观察，反映其技术服务于故事的基本立场。"
+  },
+  {
+    "_index": 29,
+    "certainty": "medium",
+    "applicable_media": ["film"],
+    "framework_bias_note": "该主张基于麦基\"形式服务于内容\"的美学立场——认为电影技术手段本身不应成为目的。"
+  },
+  {
+    "_index": 30,
+    "certainty": "medium",
+    "applicable_media": ["film", "novel"],
+    "framework_bias_note": "该主张基于麦基对\"知觉能力\"与\"想象能力\"的区分，属于麦基的分析框架。"
+  },
+  {
+    "_index": 31,
+    "certainty": "medium",
+    "applicable_media": ["hybrid"],
+    "framework_bias_note": "该主张基于麦基对\"事实vs想象\"光谱的创作理论，适用于所有叙事艺术形式。"
+  },
+  {
+    "_index": 32,
+    "certainty": "medium",
+    "applicable_media": ["hybrid"],
+    "framework_bias_note": "该主张基于麦基对\"故事天才\"普遍性的观察——日常生活中的说书人与职业作家的能力差异。"
+  },
+  {
+    "_index": 33,
+    "certainty": "medium",
+    "applicable_media": ["hybrid"],
+    "framework_bias_note": "麦基用以说明\"故事天才\"在日常生活中的体现的示例，强调\"讲得精彩\"优先于素材深度。"
+  },
+  {
+    "_index": 34,
+    "certainty": "medium",
+    "applicable_media": ["hybrid"],
+    "framework_bias_note": "该主张基于麦基将故事创作类比为交响乐的整体艺术观，强调各要素的和谐统一。"
+  }
+]

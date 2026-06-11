@@ -1,0 +1,21 @@
+# 原始书籍文件（含版权，不纳入版本控制）
+books/
+
+# epub/html 提取中间产物
+wip/*/extracted/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 日志文件
+*.log
+
+# 操作系统文件
+Thumbs.db
+.DS_Store
+
+# 编辑器临时文件
+*.swp
+*.swo
+*~

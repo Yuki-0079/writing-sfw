@@ -1,0 +1,42 @@
+{
+  "name": "das-kapital-knowledge-base",
+  "display_name": "资本论 第一卷：资本的生产过程",
+  "author": "卡尔·马克思",
+  "translator": "中共中央马克思恩格斯列宁斯大林著作编译局",
+  "edition": "人民出版社1972年版（《马克思恩格斯全集》第二十三卷）",
+  "version": "1.0.0",
+  "description": "基于马克思《资本论》第一卷的结构化知识库。系统性地阐述商品、货币、资本、剩余价值等核心经济范畴，并提供虚构世界构建的应用指导",
+  "type": "knowledge-base",
+  "domain": "political_economy",
+  "framework_coords": {
+    "domain": "political_economy",
+    "method": "dialectical_materialism",
+    "granularity": "concept->category->law->tendency",
+    "rigidity": "systematic",
+    "generality": "broad"
+  },
+  "dependencies": {
+    "close-reading-protocol": ">=1.0.0",
+    "economic-systems": "*",
+    "systemic-worldbuilding": "*"
+  },
+  "tags": [
+    "world_economy",
+    "world_society",
+    "genre_cyberpunk",
+    "genre_dystopia",
+    "domain_economics",
+    "craft_worldbuilding"
+  ],
+  "kb_stats": {
+    "total_entries": 61,
+    "chapter_coverage": "25/25 chapters + 7 prefaces",
+    "confidence_distribution": {
+      "high": 48,
+      "medium": 10,
+      "low": 1
+    },
+    "deep_docs": 5,
+    "last_updated": "2026-05-29"
+  }
+}

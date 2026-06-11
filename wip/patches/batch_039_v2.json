@@ -1,0 +1,38 @@
+[
+    {
+        "_index": 1259,
+        "certainty": "medium",
+        "applicable_media": ["hybrid"],
+        "framework_bias_note": null
+    },
+    {
+        "_index": 1260,
+        "certainty": "medium",
+        "framework_bias_note": null
+    },
+    {
+        "_index": 1262,
+        "framework_bias_note": "本章为麦基《对白》「聆听」章节。『对白对节拍/场景/故事有何用』的四层次分析框架（台词→节拍→场景→故事）属于麦基特有对白设计方法论。"
+    },
+    {
+        "_index": 1264,
+        "framework_bias_note": null
+    },
+    {
+        "_index": 1269,
+        "framework_bias_note": "本章为麦基《对白》「关键问题」清单中的节拍分析问题。『每句潜文本中角色采取的特殊行动+引发反应』的节拍分析框架属于麦基特有对白分析方法论。"
+    },
+    {
+        "_index": 1270,
+        "framework_bias_note": "本章为麦基《对白》「关键问题」清单中的转折点分析问题。『场景价值在正/负间变动』的转折点分析框架属于麦基特有场景分析方法论。"
+    },
+    {
+        "_index": 1271,
+        "framework_bias_note": "本章为麦基《对白》「关键问题」清单的方法论主张。『按节拍创建场景』并反复自问的过程属于麦基特有对白写作方法论。"
+    },
+    {
+        "_index": 1272,
+        "certainty": "medium",
+        "framework_bias_note": null
+    }
+]

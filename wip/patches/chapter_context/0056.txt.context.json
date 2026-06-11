@@ -1,0 +1,11 @@
+{
+    "chapter_file": "0056.txt",
+    "heading": "电影（影片列表）",
+    "analysis": {
+        "nature": "全章为书中引用的电影索引列表（Film Index），含片名、国家、年份。纯事实性参考信息。",
+        "certainty": "medium（全部为事实性影片信息）",
+        "media": "film（影片列表全部为电影作品）",
+        "bias_note": "本章为影片索引，无理论主张。"
+    },
+    "part_files_covered": ["text/part0106.html"]
+}

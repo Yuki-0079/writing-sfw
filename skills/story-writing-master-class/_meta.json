@@ -1,0 +1,28 @@
+{
+  "name": "story-writing-master-class",
+  "display_name": "故事写作大师班",
+  "author": "约翰·特鲁比 (John Truby)",
+  "version": "1.0.0",
+  "description": "基于约翰·特鲁比《故事写作大师班》的结构化知识库。提供有机故事创作方法论：七大关键步骤、22步结构、角色网络、设计原则、道德论点等",
+  "type": "knowledge-base",
+  "framework_coords": {
+    "medium_bias": "hybrid",
+    "granularity": "sequence/act",
+    "analyze_target": "structure/character/craft",
+    "rigidity": "prescriptive",
+    "generality": "broad"
+  },
+  "dependencies": {
+    "close-reading-protocol": ">=1.0.0"
+  },
+  "kb_stats": {
+    "total_entries": 75,
+    "chapter_coverage": "11/11",
+    "certainty_distribution": {
+      "high": 3,
+      "medium": 34,
+      "debatable": 38
+    },
+    "last_updated": "2026-05-27"
+  }
+}

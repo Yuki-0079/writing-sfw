@@ -1,0 +1,19 @@
+{
+  "name": "unified-writing-theory",
+  "title": "创意写作理论星图",
+  "version": "1.0.0",
+  "description": "整合7个创意写作知识库的统一分析系统。覆盖：麦基（故事结构）、特鲁比（长篇系统）、伯罗薇（叙事技法）、布兰德（写作心理）、吴岩（科幻理论）、盖利肖（短篇技法）、谢开来（奇幻/文本系统）",
+  "integrated_frameworks": 8,
+  "total_entries": 2170,
+  "assembly_date": "2026-05-29",
+  "dependencies": {
+    "mckee-story-analyzer": ">=2.1",
+    "story-writing-master-class": ">=1.0.0",
+    "burroway-narrative-craft": ">=1.0.0",
+    "becoming-a-writer": ">=1.0",
+    "kehuan-wenxue-lungang": ">=1.0.0",
+    "harvard-short-story": ">=1.0.0",
+    "beneath-the-iceberg": ">=1.0.0",
+    "das-kapital-knowledge-base": ">=1.0.0"
+  }
+}

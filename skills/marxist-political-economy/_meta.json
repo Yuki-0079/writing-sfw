@@ -1,0 +1,55 @@
+{
+  "name": "marxist-political-economy",
+  "display_name": "马克思主义政治经济学",
+  "version": "1.0.0",
+  "description": "多卷本马克思主义政治经济学知识库。当前收录《资本论》第一卷（61条）。可扩展架构，支持后续添加第二、三卷及其他经典著作。",
+  "type": "knowledge-base-multi",
+  "domain": "political_economy",
+  "current_volumes": ["vol1"],
+  "all_volumes": {
+    "vol1": {
+      "title": "资本的生产过程（《资本论》第一卷）",
+      "author": "卡尔·马克思",
+      "entries": 61,
+      "status": "complete"
+    },
+    "vol2": {
+      "title": "资本的流通过程（《资本论》第二卷）",
+      "author": "卡尔·马克思",
+      "entries": 0,
+      "status": "planned"
+    },
+    "vol3": {
+      "title": "资本主义生产的总过程（《资本论》第三卷）",
+      "author": "卡尔·马克思",
+      "entries": 0,
+      "status": "planned"
+    }
+  },
+  "framework_coords": {
+    "domain": "political_economy",
+    "method": "dialectical_materialism",
+    "granularity": "concept->category->law->tendency",
+    "rigidity": "systematic",
+    "generality": "broad"
+  },
+  "dependencies": {
+    "das-kapital-knowledge-base": ">=1.0.0",
+    "close-reading-protocol": ">=1.0.0"
+  },
+  "tags": [
+    "world_economy",
+    "world_society",
+    "domain_economics",
+    "craft_worldbuilding",
+    "genre_cyberpunk",
+    "genre_dystopia",
+    "genre_post_scarcity"
+  ],
+  "kb_stats": {
+    "total_entries": 61,
+    "volumes": 1,
+    "deep_docs": 5,
+    "last_updated": "2026-05-29"
+  }
+}

@@ -1,0 +1,46 @@
+[
+    {
+        "_index": 1068,
+        "certainty": "medium",
+        "framework_bias_note": null
+    },
+    {
+        "_index": 1071,
+        "applicable_media": ["hybrid"],
+        "framework_bias_note": "本章基于麦基《对白》中对抗力量四层次分类理论，物理冲突层次适用于所有叙事媒介（不限于电影）。"
+    },
+    {
+        "_index": 1081,
+        "applicable_media": ["hybrid"],
+        "framework_bias_note": "本章基于麦基《对白》中故事进展体系（危机→高潮→结局），该体系为麦基特有理论建构，非所有理论均采用此三阶段划分。"
+    },
+    {
+        "_index": 1089,
+        "certainty": "debatable",
+        "framework_bias_note": "本章基于麦基《对白》中行为五步骤模型（欲望→对抗觉察→行动选择→行动→表达），该步骤分析为麦基特有对白分析工具。"
+    },
+    {
+        "_index": 1090,
+        "certainty": "debatable",
+        "framework_bias_note": "本章基于麦基《对白》中行为五步骤模型（第二步：对抗之觉察），该分类为麦基特有对白分析工具。"
+    },
+    {
+        "_index": 1091,
+        "certainty": "debatable",
+        "framework_bias_note": "本章基于麦基《对白》中行为五步骤模型（第三步：行动之选择），该分类为麦基特有对白分析工具。"
+    },
+    {
+        "_index": 1094,
+        "applicable_media": ["hybrid"],
+        "framework_bias_note": "本章基于麦基《对白》中行为五步骤模型，举例覆盖舞台剧、小说、电影、电视剧四种媒介，均为跨媒介案例分析。"
+    },
+    {
+        "_index": 1102,
+        "applicable_media": ["hybrid"],
+        "framework_bias_note": "本章基于麦基《对白》中对'节拍'术语三种意义的辨析，节拍=行动/反应单位是麦基特有的定义方式。"
+    },
+    {
+        "_index": 1106,
+        "applicable_media": ["hybrid"]
+    }
+]

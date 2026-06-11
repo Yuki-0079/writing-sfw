@@ -1,0 +1,16 @@
+{
+  "chapter_file": "0014.txt",
+  "heading": "故事是一个由五部分组成的设计：激励事件",
+  "analysis": {
+    "nature": "混合章节：包含三个子节——「故事的世界」（通用创作方法论）、「作者资格」（真实可信原理+麦基个人论述）、「激励事件」（麦基特有理论建构）。前两个子节论述性质为medium（业界普遍接受的创作原理，有麦基个人倾向），第三个子节为debatable（麦基五部分结构理论的核心）。",
+    "certainty": "medium+debatable",
+    "media": "hybrid（默认film参照系）",
+    "bias_note": "本章是麦基《故事》第三部分「故事设计原理」的首章，围绕激励事件在五部分结构（激励事件-进展纠葛-危机-高潮-结局）中的定位展开。大量电影例证但核心原理跨媒介适用。"
+  },
+  "part_files_covered": ["text/part0026.html"],
+  "subsections": {
+    "story_world": {"lines": "1-54", "nature": "medium——背景研究与角色设计的通用创作方法论"},
+    "authority": {"lines": "55-79", "nature": "medium——真实可信原理，既有普遍共识也有麦基个人宣言"},
+    "inciting_incident": {"lines": "80-247", "nature": "debatable——麦基特有理论建构"}
+  }
+}

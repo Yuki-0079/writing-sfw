@@ -1,0 +1,18 @@
+{
+  "title": "成为作家（创意写作书系）",
+  "author": "多萝西娅·布兰德 (Dorothea Brande)",
+  "version": "1.0",
+  "entry_count": 30,
+  "chapters": 20,
+  "framework_coords": {
+    "medium_bias": "hybrid",
+    "granularity": "whole",
+    "analyze_target": "craft",
+    "rigidity": "descriptive",
+    "generality": "broad"
+  },
+  "dependencies": [],
+  "description": "基于多萝西娅·布兰德《成为作家》的结构化知识库。聚焦写作者的心理准备、意识与无意识的协同训练、定时写作方法、双重人格理论与三重天性（天才）理论。",
+  "install_date": "2026-05-27",
+  "concept_count": 30
+}

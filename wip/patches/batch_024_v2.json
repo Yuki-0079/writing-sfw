@@ -1,0 +1,42 @@
+﻿[
+    {
+        "_index":  958,
+        "certainty":  "debatable",
+        "applicable_media":  [
+                                 "hybrid"
+                             ],
+        "framework_bias_note":  "本章基于麦基《对白》中对白微观技巧体系（悬疑=好奇+同理心），在仅依赖单一媒介（如纯文学或纯舞台）时需适配。"
+    },
+    {
+        "_index":  959,
+        "certainty":  "debatable",
+        "applicable_media":  [
+                                 "hybrid"
+                             ],
+        "framework_bias_note":  "本章基于麦基《对白》中对白微观技巧体系（悬疑弧光逐层渗透），在仅依赖单一媒介（如纯文学或纯舞台）时需适配。"
+    },
+    {
+        "_index":  962,
+        "certainty":  "debatable",
+        "applicable_media":  [
+                                 "hybrid"
+                             ],
+        "framework_bias_note":  "本章基于麦基《对白》中对白微观技巧体系（停顿与转折点关联），在仅依赖单一媒介或非银幕作品时需适配。"
+    },
+    {
+        "_index":  963,
+        "certainty":  "debatable",
+        "applicable_media":  [
+                                 "hybrid"
+                             ],
+        "framework_bias_note":  "本章基于麦基《对白》中对白微观技巧体系（危机前停顿蓄积情感），在仅依赖单一媒介或非银幕作品时需适配。"
+    },
+    {
+        "_index":  965,
+        "certainty":  "debatable",
+        "applicable_media":  [
+                                 "hybrid"
+                             ],
+        "framework_bias_note":  "本章基于麦基《对白》中对白微观技巧体系（静默行为作为转折点），伯格曼式的纯视觉叙事在其他媒介中需适配。"
+    }
+]

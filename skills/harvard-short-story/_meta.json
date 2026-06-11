@@ -1,0 +1,18 @@
+{
+  "name": "harvard-short-story-writing",
+  "title": "哈佛短篇小说写作指南",
+  "author": "约翰·盖利肖（John Gallishaw）",
+  "version": "1.0.0",
+  "description": "短篇小说创作的实用技法——兴趣法则、场景五步骤、构思与呈现",
+  "type": "knowledge-base",
+  "entry_count": 18,
+  "framework_coords": {
+    "medium_bias": "novel",
+    "granularity": "scene",
+    "analyze_target": "craft",
+    "rigidity": "prescriptive",
+    "generality": "narrow"
+  },
+  "dependencies": [],
+  "install_date": "2026-05-27"
+}

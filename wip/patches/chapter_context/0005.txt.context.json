@@ -1,0 +1,15 @@
+{
+  "chapter_file": "0005.txt",
+  "heading": "◎ 故事的衰竭",
+  "analysis": {
+    "nature": "麦基对当代故事质量下降的诊断与批判——行业观察与个人分析",
+    "certainty": "medium为主，part0010中有2条high例外",
+    "certainty_exceptions": [
+      "idx 14: high（人类对故事的饥渴——跨框架共识的基本人性原理）",
+      "idx 22: high（故事是影片的基础——跨框架共识）"
+    ],
+    "media": "film为主，通用原理为hybrid",
+    "bias_note_template": "本章基于麦基对1990年代好莱坞及世界电影产业的诊断，反映其强调亚里士多德式结构的立场。"
+  },
+  "part_files_covered": ["text/part0010.html"]
+}

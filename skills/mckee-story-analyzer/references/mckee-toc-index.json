@@ -1,0 +1,662 @@
+﻿[
+    {
+        "file":  "text/part0002.html",
+        "length":  544,
+        "heading":  "目录 Contents",
+        "index":  1
+    },
+    {
+        "file":  "text/part0004.html",
+        "length":  608,
+        "heading":  "图书在版编目（CIP）数据",
+        "index":  2
+    },
+    {
+        "file":  "text/part0006.html",
+        "length":  469,
+        "heading":  "致中国读者",
+        "index":  3
+    },
+    {
+        "file":  "text/part0007.html",
+        "length":  5280,
+        "heading":  "序言",
+        "index":  4
+    },
+    {
+        "file":  "text/part0010.html",
+        "length":  13804,
+        "heading":  "◎ 故事的衰竭",
+        "index":  5
+    },
+    {
+        "file":  "text/part0011.html",
+        "length":  135,
+        "heading":  "PART Ⅱ 故事诸要素",
+        "index":  6
+    },
+    {
+        "file":  "text/part0013.html",
+        "length":  23955,
+        "heading":  "◎ 故事设计术语",
+        "index":  7
+    },
+    {
+        "file":  "text/part0015.html",
+        "length":  8210,
+        "heading":  "◎ 向陈词滥调宣战",
+        "index":  8
+    },
+    {
+        "file":  "text/part0017.html",
+        "length":  14917,
+        "heading":  "◎ 电影类型 [20]",
+        "index":  9
+    },
+    {
+        "file":  "text/part0019.html",
+        "length":  7304,
+        "heading":  "情节和人物，何者更为重要？这一争论就像故事艺术本身一样古老。亚里士多德两相权衡之后，得出结论说：故事第一位，人物第二位。此观点一直被视为金科玉律，直到小说的演变使意见的钟摆摆向了另一边。十九世纪时，许多人认为，结构仅仅是一个展示人格的器皿，",
+        "index":  10
+    },
+    {
+        "file":  "text/part0021.html",
+        "length":  15512,
+        "heading":  "◎ 审美情感",
+        "index":  11
+    },
+    {
+        "file":  "text/part0022.html",
+        "length":  114,
+        "heading":  "PART Ⅲ 故事设计原理",
+        "index":  12
+    },
+    {
+        "file":  "text/part0024.html",
+        "length":  23045,
+        "heading":  "我们是用什么材料来创作那些有朝一日将在银幕上行走谈笑的场景的呢？我们用来捏揉削刮的黏土是什么？故事的“材质”是什么？",
+        "index":  13
+    },
+    {
+        "file":  "text/part0026.html",
+        "length":  19646,
+        "heading":  "故事是一个由五部分组成的设计： 激励事件 ，故事讲述的第一个重大事件，一切后续情节的首要导因，它使其他四个要素开始运作起来—— 进展纠葛，危机，高潮，结局 。为了了解激励事件如何进入作品并在其中发挥作用，让我们再回过头来更加全面地看一看 背",
+        "index":  14
+    },
+    {
+        "file":  "text/part0028.html",
+        "length":  16402,
+        "heading":  "◎ 进展纠葛",
+        "index":  15
+    },
+    {
+        "file":  "text/part0030.html",
+        "length":  14456,
+        "heading":  "本章将集中论述场景设计的各个组成部分： 转折点、伏笔/分晓、情感转变 和 选择 。第十一章将对两个场景进行分析，以说明节拍——即不断变化的人物行为——是如何构成一个场景的内在活力的。",
+        "index":  16
+    },
+    {
+        "file":  "text/part0032.html",
+        "length":  17183,
+        "heading":  "◎ 文本和潜文本",
+        "index":  17
+    },
+    {
+        "file":  "text/part0034.html",
+        "length":  10375,
+        "heading":  "布局谋篇 是指对场景进行整合和连接。就像一个选择音符与和弦的作曲家一样，我们也要通过选择什么该包括、什么该排除、什么该在前、什么该置后来构建故事进展。这可能是一项艰巨的任务，因为当我们渐渐了解我们的主题之后，每一种故事可能性都似乎活起来了，",
+        "index":  18
+    },
+    {
+        "file":  "text/part0036.html",
+        "length":  8182,
+        "heading":  "◎ 危机",
+        "index":  19
+    },
+    {
+        "file":  "text/part0039.html",
+        "length":  7991,
+        "heading":  "以我的经验，反面人物 [54] （对抗力量）塑造原理，是故事设计中一条最重要而又最不被理解的定理。对这一基本概念的忽略，是一些剧本及其所拍摄影片之所以失败的首要原因。",
+        "index":  20
+    },
+    {
+        "file":  "text/part0041.html",
+        "length":  8909,
+        "heading":  "◎ 展示，不要告诉",
+        "index":  21
+    },
+    {
+        "file":  "text/part0042.html",
+        "length":  105,
+        "heading":  "CHAPTER 16 / 问题和解决方法",
+        "index":  22
+    },
+    {
+        "file":  "text/part0043.html",
+        "length":  20420,
+        "heading":  "本章将探讨八个常留不去的问题，从如何保持兴趣，到如何从其他媒体改编，到如何处理逻辑漏洞。对于每一个问题，本行的手艺都能提供解决办法。",
+        "index":  23
+    },
+    {
+        "file":  "text/part0045.html",
+        "length":  9296,
+        "heading":  "◎ 心灵虫",
+        "index":  24
+    },
+    {
+        "file":  "text/part0047.html",
+        "length":  15226,
+        "heading":  "◎ 对白",
+        "index":  25
+    },
+    {
+        "file":  "text/part0049.html",
+        "length":  5296,
+        "heading":  "专业作家也许会也许不会得到评论家的好评，但是他们掌控着这门手艺，能够施展出自己的天资，通过多年的实践不断完善自己的技艺，并靠着这门艺术为生。一个挣扎的作家有时也可能会出一件精品，但是不能持之以恒、随心所欲地驾驭自己的天资，此一故事和彼一故事",
+        "index":  26
+    },
+    {
+        "file":  "text/part0050.html",
+        "length":  1111,
+        "heading":  "淡出",
+        "index":  27
+    },
+    {
+        "file":  "text/part0051.html",
+        "length":  15561,
+        "heading":  "附录：文中涉及影片列表",
+        "index":  28
+    },
+    {
+        "file":  "text/part0052.html",
+        "length":  10786,
+        "heading":  "译注",
+        "index":  29
+    },
+    {
+        "file":  "text/part0053.html",
+        "length":  105,
+        "heading":  "故事：材质、结构、风格和银幕剧作的原理",
+        "index":  30
+    },
+    {
+        "file":  "text/part0055.html",
+        "length":  640,
+        "heading":  "目录 Contents",
+        "index":  31
+    },
+    {
+        "file":  "text/part0057.html",
+        "length":  858,
+        "heading":  "图书在版编目（ＣＩＰ）数据",
+        "index":  32
+    },
+    {
+        "file":  "text/part0059.html",
+        "length":  1501,
+        "heading":  "前言：礼赞对白",
+        "index":  33
+    },
+    {
+        "file":  "text/part0060.html",
+        "length":  796,
+        "heading":  "引言",
+        "index":  34
+    },
+    {
+        "file":  "text/part0063.html",
+        "length":  9368,
+        "heading":  "传统上对白被定义为角色之间所说的话，不过我相信想要全面有深度地研究对白，应该先退后一步更广义地看说故事这件事。站在这个角度，我首先注意到角色言谈沿着三种截然不同的路径展开：对别人说，对自己说，对读者或观众说。",
+        "index":  35
+    },
+    {
+        "file":  "text/part0065.html",
+        "length":  11188,
+        "heading":  "◎ 解说",
+        "index":  36
+    },
+    {
+        "file":  "text/part0067.html",
+        "length":  4130,
+        "heading":  "《皆大欢喜》第二幕，第七场",
+        "index":  37
+    },
+    {
+        "file":  "text/part0069.html",
+        "length":  11002,
+        "heading":  "◎ 冲突复合体",
+        "index":  38
+    },
+    {
+        "file":  "text/part0071.html",
+        "length":  7000,
+        "heading":  "◎ 修辞手法",
+        "index":  39
+    },
+    {
+        "file":  "text/part0073.html",
+        "length":  242,
+        "heading":  "引言：六项对白任务",
+        "index":  40
+    },
+    {
+        "file":  "text/part0075.html",
+        "length":  3614,
+        "heading":  "◎ 不可信",
+        "index":  41
+    },
+    {
+        "file":  "text/part0077.html",
+        "length":  6543,
+        "heading":  "◎ 陈腔滥调",
+        "index":  42
+    },
+    {
+        "file":  "text/part0079.html",
+        "length":  6278,
+        "heading":  "◎ 写在鼻子上",
+        "index":  43
+    },
+    {
+        "file":  "text/part0081.html",
+        "length":  6102,
+        "heading":  "◎ 重复",
+        "index":  44
+    },
+    {
+        "file":  "text/part0084.html",
+        "length":  5303,
+        "heading":  "◎ 两种才华",
+        "index":  45
+    },
+    {
+        "file":  "text/part0086.html",
+        "length":  9580,
+        "heading":  "◎《裘力斯·凯撒》 The Tragedy of Julius Caesar",
+        "index":  46
+    },
+    {
+        "file":  "text/part0089.html",
+        "length":  8808,
+        "heading":  "我们经常看到有毛病的故事浪费着让人惊讶的好对白。坏故事中坏对白常有，但很少有好故事会被烂对白浪费。原因很简单，好的故事会激发好的对白。",
+        "index":  47
+    },
+    {
+        "file":  "text/part0091.html",
+        "length":  6589,
+        "heading":  "◎《黑道家族》 The Sopranos",
+        "index":  48
+    },
+    {
+        "file":  "text/part0093.html",
+        "length":  7220,
+        "heading":  "◎《欢乐一家亲》 Frasier",
+        "index":  49
+    },
+    {
+        "file":  "text/part0095.html",
+        "length":  6906,
+        "heading":  "◎《日光下的葡萄干》 A Raisin in the Sun",
+        "index":  50
+    },
+    {
+        "file":  "text/part0097.html",
+        "length":  5128,
+        "heading":  "◎《了不起的盖茨比》 The Great Gatsby",
+        "index":  51
+    },
+    {
+        "file":  "text/part0099.html",
+        "length":  7375,
+        "heading":  "◎ 关于自我",
+        "index":  52
+    },
+    {
+        "file":  "text/part0101.html",
+        "length":  8878,
+        "heading":  "◎介绍：文本与潜文本的平衡",
+        "index":  53
+    },
+    {
+        "file":  "text/part0103.html",
+        "length":  4333,
+        "heading":  "◎ 聆听",
+        "index":  54
+    },
+    {
+        "file":  "text/part0105.html",
+        "length":  12877,
+        "heading":  "注释",
+        "index":  55
+    },
+    {
+        "file":  "text/part0106.html",
+        "length":  2274,
+        "heading":  "电影",
+        "index":  56
+    },
+    {
+        "file":  "text/part0107.html",
+        "length":  557,
+        "heading":  "电视剧",
+        "index":  57
+    },
+    {
+        "file":  "text/part0108.html",
+        "length":  2255,
+        "heading":  "小说",
+        "index":  58
+    },
+    {
+        "file":  "text/part0109.html",
+        "length":  1602,
+        "heading":  "舞台剧",
+        "index":  59
+    },
+    {
+        "file":  "text/part0110.html",
+        "length":  127,
+        "heading":  "图书",
+        "index":  60
+    },
+    {
+        "file":  "text/part0114.html",
+        "length":  380,
+        "heading":  "目录",
+        "index":  61
+    },
+    {
+        "file":  "text/part0116.html",
+        "length":  754,
+        "heading":  "图书在版编目（ＣＩＰ）数据",
+        "index":  62
+    },
+    {
+        "file":  "text/part0119.html",
+        "length":  115,
+        "heading":  "引言",
+        "index":  63
+    },
+    {
+        "file":  "text/part0120.html",
+        "length":  2425,
+        "heading":  "序",
+        "index":  64
+    },
+    {
+        "file":  "text/part0121.html",
+        "length":  243,
+        "heading":  "PART 1 IN PRAISE OF CHARACTERS 人物礼赞",
+        "index":  65
+    },
+    {
+        "file":  "text/part0122.html",
+        "length":  8998,
+        "heading":  "Characters Versus People 第一章 人物vs 〚1〛 人",
+        "index":  66
+    },
+    {
+        "file":  "text/part0123.html",
+        "length":  10185,
+        "heading":  "The Aristotle Debate 第二章 亚里士多德辩题",
+        "index":  67
+    },
+    {
+        "file":  "text/part0124.html",
+        "length":  11647,
+        "heading":  "An Author Prepares 第三章 作者准备",
+        "index":  68
+    },
+    {
+        "file":  "text/part0125.html",
+        "length":  283,
+        "heading":  "PART 2 BUILDING A CHARACTER 人物创作",
+        "index":  69
+    },
+    {
+        "file":  "text/part0126.html",
+        "length":  6864,
+        "heading":  "Character Inspiration: Outside In 第四章 人物灵感：由表及里",
+        "index":  70
+    },
+    {
+        "file":  "text/part0127.html",
+        "length":  10922,
+        "heading":  "Character Inspiration: Inside Out 第五章 人物灵感：从内到外",
+        "index":  71
+    },
+    {
+        "file":  "text/part0128.html",
+        "length":  14569,
+        "heading":  "Roles Versus Characters 第六章 角色vs人物",
+        "index":  72
+    },
+    {
+        "file":  "text/part0129.html",
+        "length":  13070,
+        "heading":  "The Outer Character 第七章 外在人物",
+        "index":  73
+    },
+    {
+        "file":  "text/part0130.html",
+        "length":  11944,
+        "heading":  "The Inner Character 第八章 内在人物",
+        "index":  74
+    },
+    {
+        "file":  "text/part0131.html",
+        "length":  8549,
+        "heading":  "The Dimensional Character 第九章 多维人物",
+        "index":  75
+    },
+    {
+        "file":  "text/part0132.html",
+        "length":  16845,
+        "heading":  "The Complex Character 第十章 复杂人物",
+        "index":  76
+    },
+    {
+        "file":  "text/part0133.html",
+        "length":  14363,
+        "heading":  "The Completed Character 第十一章 完成人物",
+        "index":  77
+    },
+    {
+        "file":  "text/part0134.html",
+        "length":  10946,
+        "heading":  "The Symbolic Character 第十二章 象征人物",
+        "index":  78
+    },
+    {
+        "file":  "text/part0135.html",
+        "length":  10119,
+        "heading":  "The Radical Character 第十三章 极端人物",
+        "index":  79
+    },
+    {
+        "file":  "text/part0137.html",
+        "length":  14557,
+        "heading":  "Character in Genre 第十四章 类型人物",
+        "index":  80
+    },
+    {
+        "file":  "text/part0138.html",
+        "length":  6195,
+        "heading":  "Character in Action 第十五章 行动人物",
+        "index":  81
+    },
+    {
+        "file":  "text/part0139.html",
+        "length":  11798,
+        "heading":  "Character In Performance 第十六章 表演人物",
+        "index":  82
+    },
+    {
+        "file":  "text/part0140.html",
+        "length":  400,
+        "heading":  "PART 4 CHARACTER RELATIONSHIPS 人物关系",
+        "index":  83
+    },
+    {
+        "file":  "text/part0141.html",
+        "length":  23984,
+        "heading":  "Cast Design 第十七章 卡司设计",
+        "index":  84
+    },
+    {
+        "file":  "text/part0142.html",
+        "length":  894,
+        "heading":  "结语：革命性作家",
+        "index":  85
+    },
+    {
+        "file":  "text/part0143.html",
+        "length":  3962,
+        "heading":  "名词解释",
+        "index":  86
+    },
+    {
+        "file":  "text/part0144.html",
+        "length":  298,
+        "heading":  "鸣谢",
+        "index":  87
+    },
+    {
+        "file":  "text/part0145.html",
+        "length":  4686,
+        "heading":  "译后记",
+        "index":  88
+    },
+    {
+        "file":  "text/part0146.html",
+        "length":  1617,
+        "heading":  "附录1：尾注",
+        "index":  89
+    },
+    {
+        "file":  "text/part0147.html",
+        "length":  402,
+        "heading":  "Chapter Two The Aristotle Debate 第二章 亚里士多德辩题",
+        "index":  90
+    },
+    {
+        "file":  "text/part0148.html",
+        "length":  648,
+        "heading":  "Chapter Three An Author Prepares 第三章 作者准备",
+        "index":  91
+    },
+    {
+        "file":  "text/part0149.html",
+        "length":  131,
+        "heading":  "Part Two Building a Character 第二部 人物创作",
+        "index":  92
+    },
+    {
+        "file":  "text/part0150.html",
+        "length":  714,
+        "heading":  "Chapter Four Character Inspiration: Outside In 第四章 人物灵感：由表及里",
+        "index":  93
+    },
+    {
+        "file":  "text/part0151.html",
+        "length":  2157,
+        "heading":  "Chapter Five Character Inspiration: Inside Out 第五章 人物灵感：从内到外",
+        "index":  94
+    },
+    {
+        "file":  "text/part0152.html",
+        "length":  132,
+        "heading":  "Chapter Six Roles Versus Characters 第六章 角色vs人物",
+        "index":  95
+    },
+    {
+        "file":  "text/part0153.html",
+        "length":  2414,
+        "heading":  "Chapter Seven The Outer Character 第七章 外在人物",
+        "index":  96
+    },
+    {
+        "file":  "text/part0154.html",
+        "length":  2736,
+        "heading":  "Chapter Eight The Inner Character 第八章 内在人物",
+        "index":  97
+    },
+    {
+        "file":  "text/part0155.html",
+        "length":  284,
+        "heading":  "Chapter Nine The Dimensional Character 第九章 多维人物",
+        "index":  98
+    },
+    {
+        "file":  "text/part0156.html",
+        "length":  1247,
+        "heading":  "Chapter Ten The Complex Character 第十章 复杂人物",
+        "index":  99
+    },
+    {
+        "file":  "text/part0157.html",
+        "length":  260,
+        "heading":  "Chapter Eleven The Completed Character 第十一章 完成人物",
+        "index":  100
+    },
+    {
+        "file":  "text/part0158.html",
+        "length":  688,
+        "heading":  "Chapter Twelve The Symbolic Character 第十二章 象征人物",
+        "index":  101
+    },
+    {
+        "file":  "text/part0159.html",
+        "length":  614,
+        "heading":  "Chapter Thirteen The Radical Character 第十三章 极端人物",
+        "index":  102
+    },
+    {
+        "file":  "text/part0160.html",
+        "length":  199,
+        "heading":  "Chapter Fifteen Character in Action 第十五章 行动人物",
+        "index":  103
+    },
+    {
+        "file":  "text/part0161.html",
+        "length":  652,
+        "heading":  "Chapter Sixteen Character in Performance 第十六章 表演人物",
+        "index":  104
+    },
+    {
+        "file":  "text/part0162.html",
+        "length":  177,
+        "heading":  "Part Four Character Relationships 第四部 人物关系",
+        "index":  105
+    },
+    {
+        "file":  "text/part0163.html",
+        "length":  495,
+        "heading":  "Chapter Seventeen Cast Design 第十七章 卡司设计",
+        "index":  106
+    },
+    {
+        "file":  "text/part0164.html",
+        "length":  9903,
+        "heading":  "附录2：人名",
+        "index":  107
+    },
+    {
+        "file":  "text/part0165.html",
+        "length":  14822,
+        "heading":  "附录3：剧作与书名",
+        "index":  108
+    },
+    {
+        "file":  "text/part0166.html",
+        "length":  558,
+        "heading":  "罗伯特·麦基 Robert McKee",
+        "index":  109
+    },
+    {
+        "file":  "text/part0167.html",
+        "length":  138,
+        "heading":  "人物：文本、舞台、银幕角色与卡司设计的艺术",
+        "index":  110
+    }
+]

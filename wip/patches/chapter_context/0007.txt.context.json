@@ -1,0 +1,12 @@
+{
+  "chapter_file": "0007.txt",
+  "heading": "◎ 故事设计术语",
+  "analysis": {
+    "nature": "麦基的核心理论框架——故事结构层级体系（节拍/场景/序列/幕/故事）和故事三角（大情节/小情节/反情节）",
+    "certainty": "主要是debatable（麦基特有的理论建构），少数medium（例证和通用技巧），极少数high",
+    "certainty_summary": "v2调整：将大量原v1的medium升级为debatable，体现本章作为麦基核心理论体系的地位",
+    "media": "film为主（所有例证来自电影），部分hybrid（通用叙事原理）",
+    "bias_note_template": "本章是麦基《故事》最核心的理论章节，其概念体系（节拍→场景→序列→幕→故事、故事三角、价值转化等）是麦基特有的叙事分析框架。"
+  },
+  "part_files_covered": ["text/part0013.html"]
+}

@@ -1,0 +1,503 @@
+{
+    "target_lib": "mckee-story-analyzer",
+    "lib_path": "C:/Users/13661/.config/opencode/skills/mckee-story-analyzer/references",
+    "pipeline": {
+        "total_groups": 74,
+        "completed": [
+            {
+                "file": "text/part0007.html",
+                "size": 12,
+                "chapter": "0004.txt",
+                "heading": "序言",
+                "certainty_mode": "medium(1high+1debatable)",
+                "media_mode": "film+hybrid",
+                "done": true
+            },
+            {
+                "file": "text/part0010.html",
+                "size": 21,
+                "chapter": "0005.txt",
+                "heading": "◎ 故事的衰竭",
+                "certainty_mode": "medium(2high)",
+                "media_mode": "film+hybrid",
+                "done": true
+            },
+            {
+                "file": "text/part0013.html",
+                "size": 103,
+                "chapter": "0007.txt",
+                "heading": "◎ 故事设计术语",
+                "certainty_mode": "debatable为主",
+                "media_mode": "film+hybrid",
+                "done": true
+            },
+            {
+                "file": "text/part0015.html",
+                "size": 16,
+                "chapter": "0008.txt",
+                "heading": "◎ 向陈词滥调宣战",
+                "certainty_mode": "medium+debatable",
+                "media_mode": "hybrid",
+                "done": true
+            },
+            {
+                "file": "text/part0017.html",
+                "size": 27,
+                "chapter": "0009.txt",
+                "heading": "◎ 电影类型",
+                "certainty_mode": "medium+debatable",
+                "media_mode": "film+hybrid",
+                "done": true
+            },
+            {
+                "file": "text/part0019.html",
+                "size": 34,
+                "chapter": "0010.txt",
+                "heading": "情节与人物之争",
+                "certainty_mode": "medium+debatable+high",
+                "media_mode": "hybrid",
+                "done": true
+            },
+            {
+                "file": "text/part0021.html",
+                "size": 50,
+                "chapter": "0011.txt",
+                "heading": "◎ 审美情感",
+                "certainty_mode": "medium+debatable",
+                "media_mode": "hybrid",
+                "done": true
+            },
+            {
+                "file": "text/part0024.html",
+                "size": 54,
+                "chapter": "0013.txt",
+                "heading": "◎ 故事的材质",
+                "certainty_mode": "debatable为主(34debatable+20medium)",
+                "media_mode": "hybrid",
+                "done": true
+            },
+            {
+                "file": "text/part0026.html",
+                "size": 63,
+                "chapter": "0014.txt",
+                "heading": "◎ 激励事件",
+                "certainty_mode": "medium+debatable(43debatable+18medium+2high)",
+                "media_mode": "hybrid为主",
+                "done": true
+            },
+            {
+                "file": "text/part0028.html",
+                "size": 84,
+                "chapter": "0015.txt",
+                "heading": "◎ 进展纠葛",
+                "certainty_mode": "debatable+medium",
+                "media_mode": "hybrid为主",
+                "done": true
+            },
+            {
+                "file": "text/part0030.html",
+                "size": 52,
+                "chapter": "0016.txt",
+                "heading": "场景设计",
+                "certainty_mode": "debatable+medium",
+                "media_mode": "film为主",
+                "done": true
+            },
+            {
+                "file": "text/part0032.html",
+                "size": 52,
+                "chapter": "0017.txt",
+                "heading": "◎ 文本和潜文本",
+                "certainty_mode": "medium为主",
+                "media_mode": "film为主",
+                "done": true
+            },
+            {
+                "file": "text/part0034.html",
+                "size": 33,
+                "chapter": "0018.txt",
+                "heading": "布局谋篇",
+                "certainty_mode": "medium为主",
+                "media_mode": "film为主",
+                "done": true
+            },
+            {
+                "file": "text/part0036.html",
+                "size": 47,
+                "chapter": "0019.txt",
+                "heading": "◎ 危机",
+                "certainty_mode": "debatable主导(33debatable+13medium+1high)",
+                "media_mode": "film+hybrid(27hybrid+20film)",
+                "done": true
+            },
+            {
+                "file": "text/part0039.html",
+                "size": 22,
+                "chapter": "0020.txt",
+                "heading": "反面人物/对抗力量",
+                "certainty_mode": "debatable为主(13debatable+5medium+3已调)",
+                "media_mode": "hybrid为主(少数film)",
+                "done": true
+            },
+            {
+                "file": "text/part0041.html",
+                "size": 33,
+                "chapter": "0021.txt",
+                "heading": "◎ 展示，不要告诉",
+                "certainty_mode": "medium为主(21medium+1high+11debatable)",
+                "media_mode": "hybrid为主",
+                "done": true
+            },
+            {
+                "file": "text/part0043.html",
+                "size": 63,
+                "chapter": "0023.txt",
+                "heading": "问题和解决方法",
+                "certainty_mode": "medium为主(48medium+15debatable)",
+                "media_mode": "film+novel混合(改编问题部分)",
+                "done": true
+            },
+            {
+                "file": "text/part0045.html",
+                "size": 17,
+                "chapter": "0024.txt",
+                "heading": "◎ 心灵虫",
+                "certainty_mode": "mixed(14medium+3debatable)",
+                "media_mode": "hybrid为主",
+                "done": true
+            },
+            {
+                "file": "text/part0047.html",
+                "size": 22,
+                "chapter": "0025.txt",
+                "heading": "◎ 对白",
+                "certainty_mode": "medium为主(18medium+4debatable)",
+                "media_mode": "film+hybrid混合",
+                "done": true
+            },
+            {
+                "file": "text/part0049.html",
+                "size": 17,
+                "chapter": "0026.txt",
+                "heading": "专业作家",
+                "certainty_mode": "medium为主(13medium+4debatable)",
+                "media_mode": "hybrid为主",
+                "done": true
+            },
+            {
+                "file": "text/part0052.html",
+                "size": 12,
+                "chapter": "0029.txt",
+                "heading": "译注",
+                "certainty_mode": "medium+debatable(译者注释)",
+                "media_mode": "hybrid为主",
+                "done": true
+            },
+            {
+                "file": "text/part0063.html",
+                "size": 36,
+                "chapter": "0035.txt",
+                "heading": "对白绪论（三路径分类/对白即行动）",
+                "certainty_mode": "medium为主(34medium+2debatable)",
+                "media_mode": "hybrid为主",
+                "done": true
+            },
+            {
+                "file": "text/part0065.html",
+                "size": 38,
+                "chapter": "0036.txt",
+                "heading": "◎ 解说（Exposition）",
+                "certainty_mode": "medium为主(32medium+5debatable+1high)",
+                "media_mode": "hybrid",
+                "done": true
+            },
+            {
+                "file": "text/part0069.html",
+                "size": 29,
+                "chapter": "0038.txt",
+                "heading": "◎ 冲突复合体",
+                "certainty_mode": "medium为主(26medium+2debatable+1high)",
+                "media_mode": "hybrid",
+                "done": true
+            },
+            {
+                "file": "text/part0071.html",
+                "size": 11,
+                "chapter": "0039.txt",
+                "heading": "◎ 修辞手法（对白微观技巧）",
+                "certainty_mode": "medium主导(6medium)+debatable为辅(5debatable)",
+                "media_mode": "hybrid（跨四种媒介讨论）",
+                "done": true
+            },
+            {
+                "file": "text/part0073.html",
+                "size": 3,
+                "chapter": "0040.txt",
+                "heading": "引言：六项对白任务",
+                "certainty_mode": "debatable主导(2debatable+1medium)",
+                "media_mode": "hybrid",
+                "done": true
+            },
+            {
+                "file": "text/part0075.html",
+                "size": 10,
+                "chapter": "0041.txt",
+                "heading": "◎ 不可信",
+                "certainty_mode": "medium主导(10medium)",
+                "media_mode": "hybrid",
+                "done": true
+            },
+            {
+                "file": "text/part0077.html",
+                "size": 10,
+                "chapter": "0042.txt",
+                "heading": "◎ 陈腔滥调",
+                "certainty_mode": "medium主导(9medium+1debatable)",
+                "media_mode": "hybrid",
+                "done": true
+            },
+            {
+                "file": "text/part0079.html",
+                "size": 22,
+                "chapter": "0043.txt",
+                "heading": "◎ 写在鼻子上",
+                "certainty_mode": "debatable提高(14medium+8debatable)",
+                "media_mode": "hybrid",
+                "done": true
+            },
+            {
+                "file": "text/part0081.html",
+                "size": 23,
+                "chapter": "0044.txt",
+                "heading": "◎ 重复",
+                "certainty_mode": "medium为主+debatable为辅(6medium+1high+16debatable)",
+                "media_mode": "hybrid为主",
+                "done": true
+            },
+            {
+                "file": "text/part0084.html",
+                "size": 6,
+                "chapter": "0045.txt",
+                "heading": "◎ 两种才华",
+                "certainty_mode": "medium(6条全部medium)",
+                "media_mode": "hybrid为主",
+                "done": true
+            },
+            {
+                "file": "text/part0086.html",
+                "size": 18,
+                "chapter": "0046.txt",
+                "heading": "◎《裘力斯·凯撒》+案例分析",
+                "certainty_mode": "medium为主(17medium+1debatable)",
+                "media_mode": "hybrid为主",
+                "done": true
+            },
+            {
+                "file": "text/part0089.html",
+                "size": 49,
+                "chapter": "0047.txt",
+                "heading": "故事设计基本元素（诱发事件/欲望五维度/对抗力量/行为五步骤/节拍）",
+                "certainty_mode": "debatable为主(22debatable+27medium)",
+                "media_mode": "hybrid为主",
+                "done": true
+            },
+            {
+                "file": "text/part0091.html",
+                "size": 31,
+                "chapter": "0048.txt",
+                "heading": "◎《黑道家族》The Sopranos",
+                "certainty_mode": "debatable+medium(1bias_note修正)",
+                "media_mode": "hybrid为主",
+                "done": true
+            },
+            {
+                "file": "text/part0093.html",
+                "size": 23,
+                "chapter": "0049.txt",
+                "heading": "◎《欢乐一家亲》Frasier",
+                "certainty_mode": "debatable+medium(1debatable→medium)",
+                "media_mode": "hybrid为主(2film→hybrid)",
+                "done": true
+            },
+            {
+                "file": "text/part0095.html",
+                "size": 32,
+                "chapter": "0050.txt",
+                "heading": "◎《日光下的葡萄干》A Raisin in the Sun",
+                "certainty_mode": "debatable+medium",
+                "media_mode": "hybrid(7film→hybrid)",
+                "done": true
+            },
+            {
+                "file": "text/part0097.html",
+                "size": 21,
+                "chapter": "0051.txt",
+                "heading": "◎《了不起的盖茨比》The Great Gatsby",
+                "certainty_mode": "debatable+medium(无需调整)",
+                "media_mode": "hybrid(全部正确)",
+                "done": true
+            },
+            {
+                "file": "text/part0099.html",
+                "size": 12,
+                "chapter": "0052.txt",
+                "heading": "◎ 关于自我（自反性冲突/内在对白）",
+                "certainty_mode": "debatable+medium+high",
+                "media_mode": "hybrid",
+                "done": true
+            },
+            {
+                "file": "text/part0101.html",
+                "size": 32,
+                "chapter": "0053.txt",
+                "heading": "◎介绍：文本与潜文本的平衡",
+                "certainty_mode": "mixed(16debatable+16medium)",
+                "media_mode": "hybrid为主",
+                "done": true
+            },
+            {
+                "file": "text/part0103.html",
+                "size": 15,
+                "chapter": "0054.txt",
+                "heading": "◎聆听",
+                "certainty_mode": "medium主导(11medium+4debatable)",
+                "media_mode": "hybrid",
+                "done": true
+            },
+            {
+                "file": "text/part0105.html",
+                "size": 28,
+                "chapter": "0055.txt",
+                "heading": "注释（Endnotes）",
+                "certainty_mode": "全部medium(5debatable→medium修正)",
+                "media_mode": "film/novel/tv/hybrid按作品类型分配",
+                "done": true
+            },
+            {
+                "file": "text/part0106.html",
+                "size": 1,
+                "chapter": "0056.txt",
+                "heading": "电影（影片列表）",
+                "certainty_mode": "medium",
+                "media_mode": "film",
+                "done": true
+            },
+            {
+                "file": "text/part0122.html",
+                "size": 11,
+                "chapter": "0066.txt",
+                "heading": "人物vs人（《人物》书第一章）",
+                "certainty_mode": "4debatable+7medium",
+                "media_mode": "hybrid",
+                "done": true
+            },
+            {
+                "file": "text/part0123.html",
+                "size": 32,
+                "chapter": "0067.txt",
+                "heading": "亚里士多德辩题（《人物》书第二章）",
+                "certainty_mode": "13debatable+18medium+1high",
+                "media_mode": "hybrid",
+                "done": true
+            },
+            {
+                "file": "text/part0124.html",
+                "size": 15,
+                "chapter": "0068.txt",
+                "heading": "作者准备（《人物》书第三章）",
+                "certainty_mode": "2debatable+13medium",
+                "media_mode": "hybrid",
+                "done": true
+            },
+            {
+                "file": "text/part0126.html",
+                "size": 20,
+                "chapter": "0070.txt",
+                "heading": "人物灵感：由表及里（《人物》书第四章）",
+                "certainty_mode": "9debatable+11medium",
+                "media_mode": "hybrid",
+                "done": true
+            },
+            {
+                "file": "text/part0127.html",
+                "size": 15,
+                "chapter": "0071.txt",
+                "heading": "人物灵感：从内到外（《人物》书第五章）",
+                "certainty_mode": "2debatable+13medium",
+                "media_mode": "hybrid",
+                "done": true
+            },
+            {
+                "file": "text/part0128.html",
+                "size": 40,
+                "chapter": "0072.txt",
+                "heading": "角色vs人物（《人物》书第六章）",
+                "certainty_mode": "2debatable+38medium",
+                "media_mode": "hybrid",
+                "done": true
+            },
+            {
+                "file": "text/part0129.html",
+                "size": 39,
+                "chapter": "0073.txt",
+                "heading": "外在人物（《人物》书第七章）",
+                "certainty_mode": "1debatable+38medium",
+                "media_mode": "hybrid",
+                "done": true
+            },
+            {
+                "file": "text/part0130.html",
+                "size": 26,
+                "chapter": "0074.txt",
+                "heading": "内在人物（《人物》书第八章）",
+                "certainty_mode": "7debatable+19medium",
+                "media_mode": "hybrid",
+                "done": true
+            },
+            {
+                "file": "text/part0131.html",
+                "size": 15,
+                "chapter": "0075.txt",
+                "heading": "多维人物（《人物》书第九章）",
+                "certainty_mode": "全部medium",
+                "media_mode": "hybrid",
+                "done": true
+            },
+            {
+                "file": "text/part0132.html",
+                "size": 50,
+                "chapter": "0076.txt",
+                "heading": "复杂人物（《人物》书第十章）",
+                "certainty_mode": "7debatable+42medium+1high→debatable",
+                "media_mode": "hybrid",
+                "done": true
+            },
+            {
+                "file": "text/part0133.html",
+                "size": 42,
+                "chapter": "0077.txt",
+                "heading": "完成人物（《人物》书第十一章）",
+                "certainty_mode": "9debatable+33medium",
+                "media_mode": "hybrid",
+                "done": true
+            },
+            {
+                "file": "text/part0134.html",
+                "size": 21,
+                "chapter": "0078.txt",
+                "heading": "象征人物（《人物》书第十二章）",
+                "certainty_mode": "1debatable+19medium+1high",
+                "media_mode": "hybrid",
+                "done": true
+            }
+        ],
+        "in_progress": null,
+        "queued": [],
+        "next": null
+    },
+    "stats": {
+        "groups_done": 74,
+        "entries_done": 1828,
+        "entries_total": 1828
+    }
+}

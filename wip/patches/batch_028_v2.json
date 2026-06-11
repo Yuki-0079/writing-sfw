@@ -1,0 +1,50 @@
+﻿[
+    {
+        "_index":  990,
+        "certainty":  "debatable",
+        "framework_bias_note":  "本章基于麦基《对白》中对\u0027写在鼻子上\u0027对白的系统化分析（潜文本三层次理论），在非写实主义作品中潜文本需按类型适配。"
+    },
+    {
+        "_index":  995,
+        "applicable_media":  [
+                                 "hybrid"
+                             ],
+        "framework_bias_note":  "本章基于麦基《对白》中对\u0027写在鼻子上\u0027对白的系统化分析，各故事媒介均具有\u0027透明性\u0027让观众看透表面。"
+    },
+    {
+        "_index":  999,
+        "applicable_media":  [
+                                 "hybrid"
+                             ]
+    },
+    {
+        "_index":  1000,
+        "applicable_media":  [
+                                 "hybrid"
+                             ]
+    },
+    {
+        "_index":  1001,
+        "certainty":  "debatable",
+        "framework_bias_note":  "本章基于麦基《对白》中对写实主义与非写实主义潜文本差异的系统分析，非写实类型允许减少潜文本。"
+    },
+    {
+        "_index":  1002,
+        "certainty":  "debatable",
+        "framework_bias_note":  "本章基于麦基《对白》中对写实主义创作前提的理论总结（潜意识驱动行为），在非写实主义类型中需调整。"
+    },
+    {
+        "_index":  1003,
+        "certainty":  "debatable",
+        "framework_bias_note":  "本章基于麦基《对白》中对写在鼻子上对白的系统分析，该主张基于写实主义原则，非写实类型不适用。"
+    },
+    {
+        "_index":  1007,
+        "certainty":  "debatable",
+        "framework_bias_note":  "本章基于麦基《对白》中\u0027三边对话\u0027（第三者法）的系统化解决方案，属于麦基特有的戏剧技巧分类。"
+    },
+    {
+        "_index":  1010,
+        "framework_bias_note":  "本章基于麦基《对白》中\u0027三边对话\u0027（第三者法）的理论体系，该分析将文化鸿沟作为第三者的分析框架属于麦基特有概念。"
+    }
+]

@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "version": "1.0",
+    "schema_version": "v2",
+    "updated": "2026-05-29",
+    "description": "写作知识中央索引。所有知识源通过统一标签体系分类，agent 在收到用户需求时先做标签分析，再按匹配度加载知识源。",
+    "tag_taxonomy": "memory/knowledge-tag-taxonomy.md",
+    "schema_doc": "书籍知识库构建流程规范.md（知识条目 JSON 格式 - Schema v2）",
+    "tag_dimensions": ["craft_*", "world_*", "domain_*", "genre_*"]
+  },
+
+  "skills": [
+    {
+      "slug": "economic-systems",
+      "name": "Economic Systems（经济体系设计）",
+      "source": "jwynia/agent-skills",
+      "type": "skill",
+      "path": "~/.config/opencode/skills/economic-systems/SKILL.md",
+      "description": "设计虚构世界的经济体系：货币、贸易网络、资源经济。10参数+6类型+5步流程。用当世界观需要经济压力驱动剧情和角色动机时。",
+      "tags": ["world_economy", "world_politics", "world_society", "domain_economics", "genre_sf", "genre_fantasy", "genre_cyberpunk", "genre_dystopia", "genre_steampunk"],
+      "relevance": { "craft": "low", "worldbuilding": "very_high", "theory": "medium" },
+      "size_estimate": "~4k tokens"
+    },
+    {
+      "slug": "governance-systems",
+      "name": "Governance Systems（政治体系设计）",
+      "source": "jwynia/agent-skills",
+      "type": "skill",
+      "path": "~/.config/opencode/skills/governance-systems/SKILL.md",
+      "description": "设计虚构世界的政治实体和治理结构：王国、帝国、联邦、星际政体。10参数+政体类型矩阵+8步流程。用当需要超越'邪恶帝国'刻板印象的现实政治复杂度时。",
+      "tags": ["world_politics", "world_society", "world_economy", "world_culture", "domain_political", "genre_sf", "genre_fantasy", "genre_dystopia"],
+      "relevance": { "craft": "low", "worldbuilding": "very_high", "theory": "medium" },
+      "size_estimate": "~4k tokens"
+    },
+    {
+      "slug": "systemic-worldbuilding",
+      "name": "Systemic Worldbuilding（系统性世界观构建）",
+      "source": "jwynia/agent-skills",
+      "type": "skill",
+      "path": "~/.config/opencode/skills/systemic-worldbuilding/SKILL.md",
+      "description": "从初始变化点出发追踪社会级联后果。5层级联框架：直接后果→系统性适应→文化演化→交叉分析→矛盾识别。核心原则：'好的科幻故事应能预测的不是汽车，而是交通堵塞。'",
+      "tags": ["world_economy", "world_politics", "world_society", "world_culture", "world_tech", "world_ecology", "world_evolution", "genre_sf", "genre_fantasy", "genre_dystopia", "genre_cyberpunk", "genre_postapocalyptic", "genre_steampunk"],
+      "relevance": { "craft": "low", "worldbuilding": "very_high", "theory": "high" },
+      "size_estimate": "~3k tokens"
+    },
+    {
+      "slug": "mckee-story-analyzer",
+      "name": "麦基《故事》《对白》《人物》",
+      "source": "书籍拆解师·旧库重构",
+      "type": "skill",
+      "path": "~/.config/opencode/skills/mckee-story-analyzer/SKILL.md",
+      "description": "1828条结构化知识条目。覆盖：故事设计术语、场景设计、人物弧、对白技艺、类型约定、幕设计。以电影为基准媒介的经典叙事理论。",
+      "tags": ["craft_structure", "craft_character", "craft_scene", "craft_dialogue", "craft_pacing", "craft_genre", "genre_literary", "genre_mystery"],
+      "relevance": { "craft": "very_high", "worldbuilding": "low", "theory": "high" },
+      "size_estimate": "超大（1828条）"
+    },
+    {
+      "slug": "story-writing-master-class",
+      "name": "特鲁比《故事写作大师班》",
+      "source": "书籍拆解师·Phase 1-4",
+      "type": "skill",
+      "path": "~/.config/opencode/skills/story-writing-master-class/SKILL.md",
+      "description": "75条知识条目。七大关键步骤、22步结构、角色网络、道德论点、象征网络。长篇系统创作方法论。",
+      "tags": ["craft_structure", "craft_character", "craft_genre", "genre_literary", "genre_fantasy", "genre_sf"],
+      "relevance": { "craft": "very_high", "worldbuilding": "medium", "theory": "high" },
+      "size_estimate": "75条"
+    },
+    {
+      "slug": "burroway-narrative-craft",
+      "name": "伯罗薇《小说写作：叙事技巧指南》",
+      "source": "书籍拆解师·Phase 1-4",
+      "type": "skill",
+      "path": "~/.config/opencode/skills/burroway-narrative-craft/SKILL.md",
+      "description": "71条知识条目。展现与讲述、对话技艺、叙述视角四维度、人物刻画六法、比拟修辞、修改与主题。基础写作技法全指南。",
+      "tags": ["craft_prose", "craft_dialogue", "craft_pov", "craft_character", "craft_revision", "genre_literary"],
+      "relevance": { "craft": "very_high", "worldbuilding": "low", "theory": "medium" },
+      "size_estimate": "71条"
+    },
+    {
+      "slug": "becoming-a-writer",
+      "name": "布兰德《成为作家》",
+      "source": "书籍拆解师·Phase 1-4",
+      "type": "skill",
+      "path": "~/.config/opencode/skills/becoming-a-writer/SKILL.md",
+      "description": "30条知识条目。双重人格理论、意识与无意识协同、定时写作方法、天才三重天性。解决写作心理障碍与创作习惯养成。",
+      "tags": ["craft_psychology"],
+      "relevance": { "craft": "high", "worldbuilding": "none", "theory": "medium" },
+      "size_estimate": "30条"
+    },
+    {
+      "slug": "harvard-short-story",
+      "name": "盖利肖《哈佛短篇小说写作指南》",
+      "source": "书籍拆解师·Phase 1-4",
+      "type": "skill",
+      "path": "~/.config/opencode/skills/harvard-short-story/SKILL.md",
+      "description": "18条知识条目。兴趣法则、场景五步骤模型、完成式/选择式小说、戏剧性呈现。专精于短篇小说的结构设计与呈现。",
+      "tags": ["craft_short", "craft_scene", "craft_structure", "craft_pacing"],
+      "relevance": { "craft": "very_high", "worldbuilding": "low", "theory": "medium" },
+      "size_estimate": "18条"
+    },
+    {
+      "slug": "kehuan-wenxue-lungang",
+      "name": "吴岩《科幻文学论纲》",
+      "source": "书籍拆解师·Phase 1-4",
+      "type": "skill",
+      "path": "~/.config/opencode/skills/kehuan-wenxue-lungang/SKILL.md",
+      "description": "53条知识条目。权力分析视角、作家簇理论（女性/大男孩/底层/落伍者）、科幻边缘性与合法性、现代性框架。不是写科幻的指南，而是解释科幻为何如此的文化理论。",
+      "tags": ["genre_sf", "domain_cultural_theory", "world_society"],
+      "relevance": { "craft": "medium", "worldbuilding": "medium", "theory": "high" },
+      "size_estimate": "53条"
+    },
+    {
+      "slug": "beneath-the-iceberg",
+      "name": "谢开来《在幻想的冰山下》",
+      "source": "书籍拆解师·Phase 1-4",
+      "type": "skill",
+      "path": "~/.config/opencode/skills/beneath-the-iceberg/SKILL.md",
+      "description": "21条知识条目。多体裁文本系统（魔戒/龙枪/博德之门）、架空世界三大宏观结构、社会化生产三状态模型、跨媒介叙事。奇幻世界构建的理论分析。",
+      "tags": ["genre_fantasy", "world_culture", "world_society", "craft_genre"],
+      "relevance": { "craft": "medium", "worldbuilding": "high", "theory": "high" },
+      "size_estimate": "21条"
+    },
+    {
+      "slug": "unified-writing-theory",
+      "name": "创意写作理论星图（主Skill）",
+      "source": "书籍拆解师·模式C",
+      "type": "meta-skill",
+      "path": "~/.config/opencode/skills/unified-writing-theory/SKILL.md",
+      "description": "整合7个写作知识库（2100+条）的元技能。多视角诊断、框架间辨析、跨媒介适配建议。是写作分析时最常用的综合入口。",
+      "tags": ["craft_structure", "craft_character", "craft_dialogue", "craft_scene", "craft_pov", "craft_prose", "craft_short", "craft_psychology", "craft_genre", "genre_sf", "genre_fantasy", "genre_literary"],
+      "relevance": { "craft": "very_high", "worldbuilding": "medium", "theory": "high" },
+      "size_estimate": "2100+条 / ~5k tokens（SKILL.md）"
+    },
+    {
+      "slug": "the-storytellers-workbench",
+      "name": "Literary Fiction Craft",
+      "source": "clawhub skill",
+      "type": "skill",
+      "path": "~/.config/opencode/skills/the-storytellers-workbench/SKILL.md",
+      "description": "基于伯罗薇《小说写作》框架的纯文学创作craft技能。覆盖展现与讲述、人物塑造、叙述视角、情节结构、比喻修辞、修改与主题七大维度。非语法校对工具，而是文学叙事craft诊断。",
+      "tags": ["craft_prose", "craft_character", "craft_dialogue", "craft_pov", "craft_structure", "craft_pacing", "genre_literary"],
+      "relevance": { "craft": "very_high", "worldbuilding": "low", "theory": "high" },
+      "size_estimate": "214行SKILL.md"
+    },
+    {
+      "slug": "novel-writer-engine",
+      "name": "小说写作引擎 V3.2",
+      "source": "clawhub skill",
+      "type": "workflow-engine",
+      "path": "~/.config/opencode/skills/novel-writer-engine/SKILL.md",
+      "description": "专业小说写作工作流引擎。支持短篇到超长篇（500万字）。内置大纲设计、正文写作、AI味量化检测、四层质检、伏笔管理、角色状态追踪、断点续传。是创作执行的核心工具。",
+      "tags": ["craft_structure", "craft_character", "craft_revision"],
+      "relevance": { "craft": "very_high", "worldbuilding": "medium", "theory": "low" },
+      "size_estimate": "130行SKILL.md"
+    },
+    {
+      "slug": "writing-style-iterator",
+      "name": "个性化写作风格记忆系统",
+      "source": "clawhub skill",
+      "type": "skill",
+      "path": "~/.config/opencode/skills/writing-style-iterator/SKILL.md",
+      "description": "从用户的修改中自动提取风格规则，学习和适应用户的写作风格。在帮用户写作时，按用户偏好生成内容，越用越好用。",
+      "tags": ["craft_prose", "craft_revision"],
+      "relevance": { "craft": "high", "worldbuilding": "none", "theory": "low" },
+      "size_estimate": "小"
+    },
+    {
+      "slug": "philosophy-dialogue",
+      "name": "哲学家对话（243位思想家视角）",
+      "source": "skillhub（nuwa-skill）",
+      "type": "skill",
+      "path": "~/.config/opencode/skills/philosophy-dialogue/SKILL.md",
+      "description": "243位东西方哲学家的思维视角合集。可单独调用或组合多视角辩论。用某位思想家的思维框架分析问题。注意：需额外安装各perspective skill才能完整使用。",
+      "tags": ["domain_philosophy", "domain_political", "domain_economics"],
+      "relevance": { "craft": "low", "worldbuilding": "medium", "theory": "high" },
+      "size_estimate": "~4k tokens（元Skill）"
+    },
+    {
+      "slug": "close-reading-protocol",
+      "name": "严谨阅读协议",
+      "source": "本地创建",
+      "type": "protocol",
+      "path": "~/.config/opencode/skills/close-reading-protocol/SKILL.md",
+      "description": "强制逐块精读+举证引用+自检复核。解决LLM抽样阅读（Lost in the Middle）问题。被文学点评、质检、知识库构建等场景的父skill加载调用。",
+      "tags": [],
+      "relevance": { "craft": "protocol", "worldbuilding": "protocol", "theory": "protocol" },
+      "size_estimate": "小"
+    }
+  ],
+
+  "knowledge_bases_planned": [
+    {
+      "slug": "das-kapital-kb",
+      "name": "《资本论》知识库（计划中）",
+      "type": "knowledge-base",
+      "status": "planned",
+      "description": "马克思《资本论》结构化知识库。核心概念：商品、价值形态、剩余价值、资本积累、原始积累、危机理论。为虚构世界的经济体系提供真实的理论深度。",
+      "tags": ["domain_economics", "domain_political", "domain_sociology", "world_economy", "world_society", "genre_cyberpunk", "genre_dystopia"],
+      "relevance": { "craft": "none", "worldbuilding": "very_high", "theory": "very_high" },
+      "planned_source": "marxists.org/chinese/marx/ → 拆书流程"
+    },
+    {
+      "slug": "historical-materialism-kb",
+      "name": "历史唯物主义知识库（计划中）",
+      "type": "knowledge-base",
+      "status": "planned",
+      "description": "以《德意志意识形态》为核心的唯物史观结构化知识库。生产力与生产关系、经济基础与上层建筑、社会形态演进。为社会演化类novum故事提供理论引擎。",
+      "tags": ["domain_sociology", "domain_political", "domain_economics", "domain_history", "world_evolution", "world_society", "genre_sf", "genre_dystopia"],
+      "relevance": { "craft": "none", "worldbuilding": "very_high", "theory": "very_high" },
+      "planned_source": "marxists.org → 拆书流程"
+    },
+    {
+      "slug": "world-society-kb",
+      "name": "社会学/阶级分析知识库（计划中）",
+      "type": "knowledge-base",
+      "status": "planned",
+      "description": "补充world_society标签的深度。阶级分析、社会分层、集体行为、社会变迁理论。让虚构社会描写有结构性理解。",
+      "tags": ["domain_sociology", "world_society", "world_politics", "genre_dystopia", "genre_cyberpunk"],
+      "relevance": { "craft": "low", "worldbuilding": "high", "theory": "very_high" },
+      "planned_source": "拆分社会学经典或skillhub sociology skill"
+    }
+  ],
+
+  "utility_skills": [
+    {
+      "slug": "skillhub-gitbash-bridge",
+      "name": "Skillhub Git Bash Bridge",
+      "type": "utility",
+      "description": "Windows平台上通过Git Bash调用skillhub的桥梁。"
+    },
+    {
+      "slug": "skill-vetter",
+      "name": "Skill Vetter",
+      "type": "utility",
+      "description": "安装clawhub/GitHub等来源skill前的安全预审。"
+    },
+    {
+      "slug": "humanizer",
+      "name": "Humanizer（AI味去除）",
+      "type": "utility",
+      "description": "消除AI写作痕迹，使文本更自然。基于维基百科'AI写作特征'指南。"
+    }
+  ],
+
+  "tag_match_rules": {
+    "description": "用户输入关键词 → 标签的推理映射。详见 memory/knowledge-tag-taxonomy.md 第6节。",
+    "ref_file": "memory/knowledge-tag-taxonomy.md",
+    "examples": [
+      { "user_says": "写一个赛博朋克故事，跨国企业取代了政府", "inferred_tags": ["genre_cyberpunk", "world_politics", "world_economy", "domain_political", "craft_structure"] },
+      { "user_says": "设计一个外星文明的宗教体系", "inferred_tags": ["world_culture", "genre_sf", "domain_anthropology"] },
+      { "user_says": "我的故事关于金融危机后的社会崩溃", "inferred_tags": ["domain_economics", "world_economy", "world_society", "genre_dystopia", "craft_structure"] },
+      { "user_says": "帮忙打磨这段对白", "inferred_tags": ["craft_dialogue", "craft_character"] }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "_index": 770,
+    "certainty": "debatable",
+    "applicable_media": null,
+    "framework_bias_note": "本章基于麦基特有的'人物塑造'（可观察素质总和）与'人物真相'（面具下本质）二分法框架，该区分为麦基人物理论的核心建构，在其他理论体系中可能以不同术语表述。"
+  },
+  {
+    "_index": 771,
+    "certainty": null,
+    "applicable_media": null,
+    "framework_bias_note": ""
+  },
+  {
+    "_index": 773,
+    "certainty": null,
+    "applicable_media": ["hybrid"],
+    "framework_bias_note": ""
+  },
+  {
+    "_index": 774,
+    "certainty": null,
+    "applicable_media": ["hybrid"],
+    "framework_bias_note": null
+  },
+  {
+    "_index": 775,
+    "certainty": "debatable",
+    "applicable_media": null,
+    "framework_bias_note": "本章定义'维'为矛盾（深层性格之内或人物塑造与深层性格之间），该定义与常见的'三维人物'（外表/内心/灵魂三层）概念截然不同，属麦基特有的理论建构。"
+  },
+  {
+    "_index": 777,
+    "certainty": null,
+    "applicable_media": null,
+    "framework_bias_note": "本章基于麦基的'维=矛盾'框架，配角也可通过矛盾创造维度。该设计思路以银幕叙事为基准但跨媒介通用。"
+  },
+  {
+    "_index": 779,
+    "certainty": null,
+    "applicable_media": ["hybrid"],
+    "framework_bias_note": null
+  },
+  {
+    "_index": 780,
+    "certainty": "debatable",
+    "applicable_media": null,
+    "framework_bias_note": "本章的太阳系/星群人物设计体系（主人公=太阳、配角=行星、小角色=卫星）是麦基特有的系统化人物关系理论，在其他写作理论中未见等同的系统化表述。"
+  }
+]

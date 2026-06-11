@@ -1,0 +1,18 @@
+[
+  {"_index": 324, "applicable_media": ["hybrid"],
+   "framework_bias_note": "角色设计两极分化原理跨媒介通用，不仅限于电影场景构建。"},
+  {"_index": 328, "applicable_media": ["hybrid"]},
+  {"_index": 332, "applicable_media": ["hybrid"]},
+  {"_index": 337, "applicable_media": ["hybrid"]},
+  {"_index": 342, "applicable_media": ["hybrid"]},
+  {"_index": 343, "certainty": "debatable", "applicable_media": ["hybrid"],
+   "framework_bias_note": "该主张基于麦基对自觉欲望与不自觉欲望的区分模型——不自觉欲望作为故事脊椎驱动力量是麦基特有的理论建构。"},
+  {"_index": 347, "certainty": "debatable", "applicable_media": ["hybrid"],
+   "framework_bias_note": "该主张是麦基对故事求索形式的总结性定义，以激励事件打破平衡为前提，在非大情节叙事（如小情节、反情节）中需调整。"},
+  {"_index": 353, "applicable_media": ["hybrid"],
+   "framework_bias_note": "必备场景概念虽在多种理论中出现，但此处的系统化定义附属于麦基的五部分结构体系。"},
+  {"_index": 360, "applicable_media": ["hybrid"]},
+  {"_index": 361, "applicable_media": ["hybrid"]},
+  {"_index": 368, "applicable_media": ["hybrid"]},
+  {"_index": 369, "applicable_media": ["hybrid"]}
+]

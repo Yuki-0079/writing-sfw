@@ -1,0 +1,11 @@
+{
+  "chapter_file": "0029.txt",
+  "heading": "译注",
+  "analysis": {
+    "nature": "译者（周铁东）的学术注释——术语解释、背景介绍、翻译说明。非麦基本人原著主张。",
+    "certainty": "medium+debatable（译者个人/学术界观点）",
+    "media": "hybrid为主（术语定义跨媒介通用）",
+    "bias_note": "本章为译者周铁东的学术注释，包括词源介绍（Stereotype等）、关键术语翻译说明（True Character、feeling等）、以及背景典故解释（苏菲的选择、卓尔巴等）。标注不可与麦基本人主张混淆。"
+  },
+  "part_files_covered": ["text/part0052.html"]
+}

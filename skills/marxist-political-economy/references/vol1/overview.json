@@ -1,0 +1,88 @@
+{
+  "title": "资本论 第一卷：资本的生产过程",
+  "author": "卡尔·马克思",
+  "translator": "中共中央马克思恩格斯列宁斯大林著作编译局",
+  "edition": "人民出版社1972年版（《马克思恩格斯全集》第二十三卷）",
+  "domain": "political_economy",
+  "total_pages_pdf": 2789,
+  "estimated_total_chars": 1950000,
+
+  "structure_map": [
+    {"part": "序言", "chapters": [
+      {"num": "序-1", "title": "第一版序言", "book_pages": "7-13", "pdf_range_approx": "15-21"},
+      {"num": "序-2", "title": "第二版跋", "book_pages": "14-25", "pdf_range_approx": "22-33"},
+      {"num": "序-3", "title": "法文版序言", "book_pages": "26", "pdf_range_approx": "34"},
+      {"num": "序-4", "title": "法文版跋", "book_pages": "29", "pdf_range_approx": "35-36"},
+      {"num": "序-5", "title": "第三版序言（恩格斯）", "book_pages": "30-32"},
+      {"num": "序-6", "title": "英文版序言（恩格斯）", "book_pages": "33-37"},
+      {"num": "序-7", "title": "第四版序言（恩格斯）", "book_pages": "38-44"}
+    ]},
+    {"part": "第一篇 商品和货币", "chapters": [
+      {"num": 1, "title": "商品", "book_pages": "47-101", "sections": ["商品的两个因素", "劳动的二重性", "价值形式或交换价值", "商品拜物教"]},
+      {"num": 2, "title": "交换过程", "book_pages": "102-111"},
+      {"num": 3, "title": "货币或商品流通", "book_pages": "112-166", "sections": ["价值尺度", "流通手段", "货币"]}
+    ]},
+    {"part": "第二篇 货币转化为资本", "chapters": [
+      {"num": 4, "title": "货币转化为资本", "book_pages": "167-200", "sections": ["资本的总公式", "总公式的矛盾", "劳动力的买和卖"]}
+    ]},
+    {"part": "第三篇 绝对剩余价值的生产", "chapters": [
+      {"num": 5, "title": "劳动过程和价值增殖过程", "book_pages": "201-224"},
+      {"num": 6, "title": "不变资本和可变资本", "book_pages": "225-237"},
+      {"num": 7, "title": "剩余价值率", "book_pages": "238-257"},
+      {"num": 8, "title": "工作日", "book_pages": "258-335"},
+      {"num": 9, "title": "剩余价值率和剩余价值量", "book_pages": "336-345"}
+    ]},
+    {"part": "第四篇 相对剩余价值的生产", "chapters": [
+      {"num": 10, "title": "相对剩余价值的概念", "book_pages": "347-357"},
+      {"num": 11, "title": "协作", "book_pages": "358-372"},
+      {"num": 12, "title": "分工和工场手工业", "book_pages": "373-407"},
+      {"num": 13, "title": "机器和大工业", "book_pages": "408-553"}
+    ]},
+    {"part": "第五篇 绝对剩余价值和相对剩余价值的生产", "chapters": [
+      {"num": 14, "title": "绝对剩余价值和相对剩余价值", "book_pages": "555-566"},
+      {"num": 15, "title": "劳动力价格和剩余价值的量的变化", "book_pages": "567-579"},
+      {"num": 16, "title": "剩余价值率的各种公式", "book_pages": "580-584"}
+    ]},
+    {"part": "第六篇 工资", "chapters": [
+      {"num": 17, "title": "劳动力的价值或价格转化为工资", "book_pages": "585-593"},
+      {"num": 18, "title": "计时工资", "book_pages": "594-602"},
+      {"num": 19, "title": "计件工资", "book_pages": "603-612"},
+      {"num": 20, "title": "工资的国民差异", "book_pages": "613-618"}
+    ]},
+    {"part": "第七篇 资本的积累过程", "chapters": [
+      {"num": 21, "title": "简单再生产", "book_pages": "621-634"},
+      {"num": 22, "title": "剩余价值转化为资本", "book_pages": "635-671"},
+      {"num": 23, "title": "资本主义积累的一般规律", "book_pages": "672-780"},
+      {"num": 24, "title": "所谓原始积累", "book_pages": "781-832"},
+      {"num": 25, "title": "现代殖民理论", "book_pages": "833-843"}
+    ]}
+  ],
+
+  "prefaces": ["第一版序言", "第二版跋", "法文版序言", "法文版跋", "第三版序言（恩格斯）", "英文版序言（恩格斯）", "第四版序言（恩格斯）"],
+
+  "framework_coords": {
+    "domain": "political_economy",
+    "method": "dialectical_materialism",
+    "granularity": "concept → category → law → tendency",
+    "rigidity": "systematic",
+    "generality": "broad（覆盖经济基础到上层建筑）",
+    "primary_method": "抽象力（Abstraktionskraft）代替显微镜和化学试剂"
+  },
+
+  "candidate_concepts": [
+    "商品", "使用价值", "交换价值", "价值", "抽象劳动", "具体劳动",
+    "价值形式", "简单价值形式", "扩大价值形式", "一般价值形式", "货币形式",
+    "商品拜物教", "交换过程", "价值尺度", "流通手段", "货币贮藏", "支付手段", "世界货币",
+    "资本总公式", "劳动力商品", "劳动过程", "价值增殖过程",
+    "不变资本", "可变资本", "剩余价值率", "绝对剩余价值",
+    "工作日", "相对剩余价值", "协作", "分工", "工场手工业",
+    "机器", "大工业", "工资", "计时工资", "计件工资",
+    "简单再生产", "扩大再生产", "资本积累", "资本有机构成",
+    "相对过剩人口", "产业后备军", "资本主义积累的一般规律",
+    "原始积累", "殖民理论"
+  ],
+
+  "estimated_chapters_for_extraction": 32,
+  "estimated_entry_count": "200-300（高颗粒度）",
+  "notes": "颗粒度高于先前写作书籍。每章提取8-15条知识条目，核心章节（第1、4、5、7、8、13、22、23、24章）密度加倍。"
+}

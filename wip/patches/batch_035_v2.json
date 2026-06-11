@@ -1,0 +1,58 @@
+[
+  {
+    "text_match": "再一次，黑体部分为场景剧本",
+    "certainty": "debatable",
+    "applicable_media": [
+      "hybrid"
+    ],
+    "framework_bias_note": "该主张基于麦基的节拍-序列-场景-幕层级结构理论，属于麦基体系的特有概念。"
+  },
+  {
+    "text_match": "注意汉斯贝瑞的技巧：这是看如何设计伏笔",
+    "certainty": "medium",
+    "applicable_media": [
+      "hybrid"
+    ],
+    "framework_bias_note": ""
+  },
+  {
+    "text_match": "因此，扮演露丝的演员得演出她的痛苦",
+    "certainty": "medium",
+    "applicable_media": [
+      "hybrid"
+    ],
+    "framework_bias_note": ""
+  },
+  {
+    "text_match": "对沃尔特而言，他没想到自己演出来的",
+    "certainty": "medium",
+    "applicable_media": [
+      "hybrid"
+    ],
+    "framework_bias_note": ""
+  },
+  {
+    "text_match": "因此编剧一定要在故事早期清楚建立角色",
+    "certainty": "debatable",
+    "applicable_media": [
+      "hybrid"
+    ],
+    "framework_bias_note": "该主张基于麦基的节拍-序列-场景-幕层级结构理论，属于麦基体系的特有概念。"
+  },
+  {
+    "text_match": "当露丝终于指出钱是妈妈的而非他的",
+    "certainty": "debatable",
+    "applicable_media": [
+      "hybrid"
+    ],
+    "framework_bias_note": "该主张基于麦基的节拍-序列-场景-幕层级结构理论，属于麦基体系的特有概念。"
+  },
+  {
+    "text_match": "更糟糕的毁灭方法是，汉斯贝瑞可以完全不用转折点",
+    "certainty": "debatable",
+    "applicable_media": [
+      "hybrid"
+    ],
+    "framework_bias_note": "该主张基于麦基的节拍-序列-场景-幕层级结构理论，属于麦基体系的特有概念。"
+  }
+]

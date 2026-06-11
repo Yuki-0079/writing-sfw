@@ -1,0 +1,18 @@
+﻿[
+    {
+        "_index":  967,
+        "certainty":  "debatable",
+        "applicable_media":  [
+                                 "hybrid"
+                             ],
+        "framework_bias_note":  "本章为麦基《对白》引言，提出六项对白任务的抽象框架，本章没有具体媒介指向。该条目中的\u0027进展节拍\u0027属麦基特有概念。"
+    },
+    {
+        "_index":  968,
+        "certainty":  "medium",
+        "applicable_media":  [
+                                 "hybrid"
+                             ],
+        "framework_bias_note":  "本章为麦基《对白》引言，提出六项对白任务的抽象框架，语言真实性原则各媒介通用。"
+    }
+]

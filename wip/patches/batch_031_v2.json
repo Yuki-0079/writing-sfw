@@ -1,0 +1,17 @@
+[
+    {
+        "_index": 1042,
+        "applicable_media": ["hybrid"],
+        "framework_bias_note": "本章基于麦基《对白》中对莎士比亚对白技巧的分析和跨媒介（舞台/银幕/小说）应用建议。"
+    },
+    {
+        "_index": 1045,
+        "applicable_media": ["hybrid"],
+        "framework_bias_note": "本章基于麦基《对白》中对《战略高手》意象层次的分析，该分析框架属于麦基特有概念（潜文本六层次模型）。"
+    },
+    {
+        "_index": 1051,
+        "certainty": "debatable",
+        "framework_bias_note": "本章基于麦基《对白》中对戏剧角色与喜剧角色的核心区别——意识vs盲目的理论建构，属于麦基特有概念。"
+    }
+]

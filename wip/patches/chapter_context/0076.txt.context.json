@@ -1,0 +1,11 @@
+{
+    "chapter_file": "0076.txt",
+    "heading": "复杂人物（《人物》书第十章）",
+    "analysis": {
+        "nature": "讨论通过对抗力量实现复杂性的理论章。涵盖：复杂人物定义、双重欲望模型（显意识vs潜意识）、克莱默夫妇案例分析、文本/潜文本深度、人物深度十特性。",
+        "certainty": "medium主导（43条medium），7条debatable（麦基特有框架），1条从high降为debatable（文本/潜文本区隔与神志关系）",
+        "media": "hybrid",
+        "bias_note": "本章为麦基《人物》书第十章。双重欲望模型、人物深度十特性属于麦基特有框架。"
+    },
+    "part_files_covered": ["text/part0132.html"]
+}
