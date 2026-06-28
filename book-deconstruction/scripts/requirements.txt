@@ -1,0 +1,6 @@
+# 依赖说明
+# EPUB 提取脚本使用 Python 标准库，无需额外安装依赖。
+#
+# 如果需要对扫描版 PDF 进行 OCR，推荐使用:
+#   pip install pytesseract pillow pdf2image
+# 并安装 Tesseract OCR 引擎和中文语言包
